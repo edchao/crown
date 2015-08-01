@@ -1,1 +1,28 @@
-Hello World
+---
+layout: default
+---
+
+<div class="home">
+
+  {% for post in site.posts %}
+
+  {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
+  {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
+
+    {% if day != nday %}
+    <div class="title-date">
+      <h2>{{post.date | date: "%A"}}</h2>
+      <h4>{{ post.date | date: "%B %e, %Y" }}</h4>
+    </div>
+    {% endif %}
+
+    {{post.content}}
+    <div>
+    {{post.author}}
+    </div>
+
+  {% endfor %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

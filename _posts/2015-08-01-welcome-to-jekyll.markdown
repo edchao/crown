@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "First post"
+date:   2015-08-01 12:39:26
+categories: jekyll update
+author: Ed
+---
+In Psalm 20 God answers the call of individual saints for the sake of his anointed (king).  What is initially a hope for a divine answer transforms into certainty when the individual aligns with the anointed of the LORD. “Now I know the LORD saves his anointed. He will answer him…”
+
+As much as we align ourselves with Christ the anointed King, God’s answer is sure. If we remain in Jesus, all His promises are Yes and Amen.
