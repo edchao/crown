@@ -1,20 +1,19 @@
 <header class="site-header">
 
-  <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">Hi</a>
+  <a href="{{ site.baseurl }}/">
+    <div class="logo">
+      Crown
+    </div>
+  </a>
 
-    <nav class="site-nav">
 
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
+  <div class="nav">
 
+      <a class="nav-link" href="{{ "/about" | prepend: site.baseurl }}">About</a>
+
+      <a class="nav-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
   </div>
+
 
 </header>

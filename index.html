@@ -2,27 +2,31 @@
 layout: default
 ---
 
-<div class="home">
+<div>
 
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 20%}
 
+  {% capture today %}{{ site.time | date: '%m%d%Y' }}{% endcapture %}
   {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
   {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
 
+
     {% if day != nday %}
-    <div class="title-date">
+    <div class="post-header">
       <h2>{{post.date | date: "%A"}}</h2>
-      <h4>{{ post.date | date: "%B %e, %Y" }}</h4>
+      <div class="post-date">{{ post.date | date: "%B %e, %Y" }}</div>
     </div>
     {% endif %}
-
-    {{post.content}}
-    <div>
-    {{post.author}}
-    </div>
+    <article class="post-content">
+      {{post.content}}
+      <div class="post-author">
+      – {{post.author}}
+      </div>
+    </article>
 
   {% endfor %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+
+{% include footer.html %}

@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+“Run in such a way that you may win.”  Here is a place where a few friends can look across the lane and call out to one another in the race of faith.  Where thoughts or meditations are shared so that our eyes remain fixed on Jesus.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+#### Current Conributors
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<div class= "post-author"> Steve Tu </div>
+<div class= "post-author"> Ed Chao </div>
