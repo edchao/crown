@@ -3,7 +3,7 @@ title: For Crown & King
 email: your-email@domain.com
 description: A site for brothers
 baseurl: "/crown" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://thatedchao.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
