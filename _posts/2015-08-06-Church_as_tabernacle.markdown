@@ -9,6 +9,6 @@ author: Ed
 
 Just as the tabernacle was the dwelling place of God and later the temple, the Church has become the new dwelling place of God in the Spirit (in conjunction with the incarnate tabernacle who is Christ).
 
-See how picture bears a stunning resemblance to the description of the future New Jerusalem in Revelation. Though the Church is here called a holy temple and there a holy city, both are built on the foundation of the apostles, and especially of Christ.  Both are called the bride, the wife of the Lamb. And both are named the dwelling place of God, the Tabernacle.
+See how this picture bears a stunning resemblance to the description of the future New Jerusalem in Revelation. Though the Church is here called a holy temple and there a holy city, both are built on the foundation of the apostles, and especially of Christ.  Both are called the bride, the wife of the Lamb. And both are named the dwelling place of God, the Tabernacle.
 
 It is noteworthy that we have not yet become this. Our distance from the saints of Israel, her commonwealth and covenant promises, is presently closing. In this way both believing Israel and believing gentiles are day by day growing and being fitted together into the Church.
