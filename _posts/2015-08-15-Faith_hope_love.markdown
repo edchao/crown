@@ -13,4 +13,4 @@ tags: Faith, Hope, Love
 - Hope is the attitude.
 - Love is the action.
 
-This is the inextricable trinity of godliness. Each piece completes the others.  
+This is the inextricable trinity of godliness. Each piece completes the others.  "I believe with hopefulness, and so I love."
