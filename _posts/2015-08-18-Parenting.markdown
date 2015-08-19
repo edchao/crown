@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parenting"
-date:   2015-08-17 20:32:00
+date:   2015-08-18 20:32:00
 categories: crown
 author: Ed
 tags: parenting
