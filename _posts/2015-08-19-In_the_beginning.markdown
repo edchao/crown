@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blessed are the pure in heart"
-date:   2015-08-14 09:34:00
+title:  "In the beginning"
+date:   2015-08-19 13:16:00
 categories: crown
 author: Steve
 tags:
