@@ -4,7 +4,7 @@ layout: default
 
 <div>
 
-  {% for post in site.posts limit: 20%}
+  {% for post in site.posts limit: 7%}
 
   {% capture today %}{{ site.time | date: '%m%d%Y' }}{% endcapture %}
   {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
