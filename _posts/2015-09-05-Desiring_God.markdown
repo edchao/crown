@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Re-desiring God"
-date:   2015-09-05 16:32:00
+date:   2015-09-05 21:32:00
 categories: crown
 author: Steve
 tags:
