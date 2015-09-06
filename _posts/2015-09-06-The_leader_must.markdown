@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “The leader must”
+title:  The leader must
 date:   2015-09-06 6:00:00
 categories: crown
 author: Ed
