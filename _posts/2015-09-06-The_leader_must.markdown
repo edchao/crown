@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  “The leader must”
-date:   2015-09-05 6:00:00
+date:   2015-09-06 6:00:00
 categories: crown
 author: Ed
 ---
 
-Taken from J.Oswald Sander’s summary of Bernard Montgomery’s principles of leadership.
+Taken from J.Oswald Sander’s summary of Bernard Montgomery’s principles of leadership. A Leader must:
 
-The Leader must:
 1. avoid getting swamped in detail
 2. Not be petty
 3. Not be pompous
