@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “The next moment”
+title:  The next moment
 date:   2015-09-05 21:00:00
 categories: crown
 author: Ed
