@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Reversal
+title:  Vice Reversal
 date:   2015–10-02 21:00:00
 categories: crown
 author: Ed
