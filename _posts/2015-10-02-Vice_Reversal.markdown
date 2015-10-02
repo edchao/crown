@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Vice Reversal
-date:   2015–10-02 21:00:00
+title:  Reversal
+date:   2015-10-02 06:45:00
 categories: crown
 author: Ed
+tags:
 ---
 
 > He who steals must steal no longer; but rather he must labor, performing with his own hands what is good, so that he will have something to share with one who has need. (Ephesians 4:28)
