@@ -6,4 +6,4 @@ categories: crown
 author: Ed
 ---
 
-You know you’ve really learned something when it continually seeps not your prayers.
+You know you’ve really learned something when it continually seeps into your prayers.
