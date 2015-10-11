@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Reading
+date:   2015-10-11 13:16:00
+categories: crown
+author: Ed
+tags:
+---
+> I like the poets whose writing reveal great moral character and passion – such as Tennyson and some of Browning. The works of others have light, but I prefer flame to light. Shakespeare? A mind as clear as a sunbeam — but passionless, light without heat. Shelley? Keats? There's a sense in which they were perfect poets, but they don't move me. Beautiful — but wordmongers. There's an infinite difference between the beauty of holiness and the holiness of beauty. One leads to the highest, loftiest, most Godlike character; the other often — too often — leads to an orgy of sensation. (Samuel Brengle)
