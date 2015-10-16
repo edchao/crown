@@ -8,7 +8,7 @@ author: Steve
 
 Today, I woke up to the words "Honey, X just texted me, Y's mom just committed suicide."
 
-X and Y are dear friends in our church, I didn't know what to say or think. Lucy and I prayed for them. She bought groceries. I brought them breakfast and lunch. I sat a listened. Justin came, we sat, cried, spoke words of encouragement to them. It was so raw, I still haven't processed it all. Truly, when one member of the Body hurts, the rest hurt with it.
+X and Y are dear friends in our church, I didn't know what to say or think. Lucy and I prayed for them. She bought groceries. I brought them breakfast and lunch. I sat and listened. Justin came, we sat, cried, spoke words of encouragement to them. But at the same time, what do you say? And boy, did I see an example of pastoral care in Justin as well. It was so raw, I still haven't processed it all. Truly, when one member of the Body hurts, the rest hurt with it.
 
 Lord, come quickly, this world is cruel indeed.
 
