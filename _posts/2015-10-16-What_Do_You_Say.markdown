@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Connected
+title:  What do you say?
 date:   2015-10-16 19:21:00
 categories: crown
 author: Steve
