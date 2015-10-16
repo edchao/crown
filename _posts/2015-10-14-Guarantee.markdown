@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Connected
+title:  Guarantee
 date:   2015-10-14 18:25:00
 categories: crown
 author: Steve
