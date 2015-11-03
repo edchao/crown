@@ -6,4 +6,4 @@ categories: crown
 author: Ed
 ---
 
-Before you speak a confronational word, pause to consider, in this moment, do I love this person? How can my words be seasoned with grace if they do not proceed out of a heart that is controlled by love?
+Before you speak a confrontational word, pause to consider, in this moment, do I love this person? How can my words be seasoned with grace if they do not proceed out of a heart that is controlled by love?
