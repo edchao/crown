@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Imagination: A ship we must command"
+title:  "A ship we must command"
 date:   2017-06-26 09:47:00
 categories: crown
 author: Ed
