@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Story
+date:   2015-11-30 21:00:00
+categories: crown
+author: Ed
+---
+
+I've started reading C.S. Lewis' 'Surprised by Joy', which chronicles his introduction, apostasy, and return to faith. It is fascinating. Relatedly, It is probably worth writing down my own story sometime. By the way, Happy belated Thanksgiving!
