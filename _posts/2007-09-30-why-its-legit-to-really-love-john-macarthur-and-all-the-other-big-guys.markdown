@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I have heard, multiple times that it is not cool to be such a JMac fan.  Or, it's so lame to be a Piper head.  Sound familiar? "Dude, I mean I know he's a great theologian but you act like he's Jesus!"  Really? If people saw MacArthur as a Jesus figure, I doubt they'd ever listened to JMac's teaching.  Well, if you love John MacArthur, chances are you love how he handles the word so carefully or you admire and want to imitate the stability of his faith or if you go to his church, you appreciate greatly his shepherd-like heart to the congregation.  One thing is for sure, you don't love him because he has saved your soul. (if that's why you love him, stop reading, you need to repent and give the glory to God.)</p>
 <p>I used to snore to MacArthur.  Well I was also a piper head too and the dichotomy between the two is vast in their presentation.  Piper speaks with volume and visual charisma.  MacArthur is dry, and his voice is relatively monotone and soothing.  To put it simply, I could not understand why people loved MacArthur so much.  Maybe because I spent most of my first year bobbing for apples in the front row.</p>

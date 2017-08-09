@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>my fish died today.  I am very sad.   This poem is a tribute to him:</p>
 <p>-</p>

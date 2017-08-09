@@ -13,10 +13,10 @@ meta:
     7748023
     audio/mpeg
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><a href="http://www.siberiangrits.com/tbnn/SuperboxI-FirstHalf.mp3">SuperBox!</a></p>

@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>So I finally got up the strength to go the doctors.  I took a 10 minute cab to this place called Shu Tian Clinic.  Long story short.  It was lame.  I waited for 2 hours and they prescribed me useless drugs.  I was hoping for antibiotics, but they just gave me drugs to keep me from going.  Essentially artificial C-stop.  Did not fix the problem at all.</p>
 <p>So I spent another night of crazy stomach aches and occasional trips to the bathroom along with an episode of roach killing.  I guess it was attracted to the dirtiness I had accumulated over the past three days.</p>

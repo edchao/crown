@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I suppose the title to this post is a bit misleading, though it is phrased exactly as Matt 23:6, Mark 12:39 and Luke 24:36, I don't intend to address the issue of the love of self via the hunger for man's praise, demonstrated in the Pharisees taking the seats of honor.  Though I do intend to address self-love.  The passage is not in the gospels but in Phillipians.  Can you guess?</p>
 <p>Good guess:</p>

@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>July 19-June 1&nbsp; : in China with parents<br />
 July 2 - July 18 : in Taiwan ministering to prisoners&nbsp;</p>

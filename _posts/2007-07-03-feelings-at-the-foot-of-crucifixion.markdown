@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I had a series of 4 dreams the other day while I was napping.  Each dream was like a short story, with its own ending, and its own lesson.  In those four dreams, four separate and specific sins were highlighted in my life.  I don't trust having dreams tell you the will of God.  But this was really something else.</p>
 <p>Recently I have been confronted over and over again from the Scriptures concerning specific sins in my life whether in sermons, testimonies or in personal studies.  The repetition of these confrontations must have pushed the convictions into my dreams.  I didn't want to deal with them seriously in reality and in daily life, so I guess the Lord placed them into my lap when I was sleeping.</p>

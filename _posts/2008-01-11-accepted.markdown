@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I wish I wrote this song, because it speaks directly from and to my heart. It is the song of one unsatisfied by God, and the brokenness that results from faithless harlotry and the final question, "God will you still accept me?"</p>
 <blockquote><p>If you could love me as a wife<br />

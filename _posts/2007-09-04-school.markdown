@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>school has begun.  I have two classes.  One class is M-F 10-1.  and another is M/W 4-6.  The first class is not hard yet, the second is a private tutor who makes me eat straw, in other words, it's really hard, and difficult to digest everything.</p>
 <p>I picked up A Wrinkle in Time by Madeleine L'Engle, a childhood favorite, except I'm trying to read it in Chinese which makes for very slow reading.  Unfortunately I'm getting less time reading it than I would like, since I have homework.</p>

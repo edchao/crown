@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <br />
 <blockquote><p><em>“[Jesus] entered Jericho and was passing through.   And there was a man called by the name of Zaccheus; he was a chief tax collector and he was rich.   Zaccheus was trying to see who Jesus was, and was unable because of the crowd, for he was small in stature.   So he ran on ahead and climbed up into a sycamore tree in order to see Him, for He was about to pass through that way.   When Jesus came to the place, He looked up and said to him, “Zaccheus, hurry and come down, for today I must stay at your house.”   And he hurried and came down and received Him gladly.   When they saw it, they all began to grumble, saying, “He has gone to be the guest of a man who is a sinner.”   Z</em><em>accheus stopped and said to the Lord, “Behold, Lord, half of my possessions I will give to the poor, and if I have defrauded anyone of anything, I will give back four times as much.”   And Jesus said to him, “Today salvation has come to this house, because he, too, is a son of Abraham.   “For the Son of Man has come to seek and to save that which was lost.”” (Luke 19:1-10, NAS95S)</em></p></blockquote>

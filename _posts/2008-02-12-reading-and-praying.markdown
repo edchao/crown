@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>When I have a rough day, or when I am feeling particularly cluttered, or when something is wrong and I just can't put a finger on it, I usually clear my mind with two things.</p>
 <ol>

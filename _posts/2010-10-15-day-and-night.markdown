@@ -13,11 +13,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <blockquote>"3 While people are saying, “There is peace and security,” then sudden destruction will come upon them as labor pains come upon a pregnant woman, and they will not escape. 4 But you are not in darkness, brothers, for that day to surprise you like a thief. 5 For you are all children of light, children of (the) day. We are not of (the) night or of (the) darkness. 6 So then let us not sleep, as others do, but let us keep awake and be sober. 7 For those who sleep, sleep at night, and those who get drunk, are drunk at night. 8 But since we are of (the) day, let us be sober, having put on the breastplate of faith and love, and for a helmet the hope of salvation. 9 For God has not destined us for wrath, but to obtain salvation through our Lord Jesus Christ, 10 who died for us so that whether we are awake or asleep we might live with him. 11 Therefore encourage one another and build one another up, just as you are doing." - 1 Thess 5:3-10</p></blockquote>
 <p>I used to be very confused by this pasage.  All this talk of day and night, used to make me wonder whether Christians ought to sleep lightly, and be serious people.  Don't laugh, it's what I really thought.  After all isn't Paul saying that the moment Christ comes back is a mystery? and wouldn't you want to be awake for when that happens?  And he does mean literally awake right?</p>

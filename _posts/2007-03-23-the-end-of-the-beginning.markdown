@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I'm officially finished with my undergraduate career.  I give my praise to the King of Kings, the Sovereign Lord of the Universe.  Jesus.</p>
 <p>p.s. Thanks to everyone who ran with me along the way.</p>

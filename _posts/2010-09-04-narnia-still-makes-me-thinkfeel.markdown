@@ -13,11 +13,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I've been reading Narnia recently.  I love it.  Of course.  3rd time through and I love it even more.</p>
 <p>I have 4 main thoughts every time I put down the book:</p>

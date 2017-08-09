@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>here's one of the places Jon went.</p>
 <p><img src="{{ site.baseurl }}/assets/border.JPG" alt="jon's picture" width="463" /></p>

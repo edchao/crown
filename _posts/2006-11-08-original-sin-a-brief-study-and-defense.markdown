@@ -13,11 +13,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p> I don't do this often, but here is a brief entry on Original Sin.  I'm not brilliant like Phil Johnson or Mark  Dever or any other doctrinal smart-guy for that matter, so let me know if I make mistakes.</p>
 <p><a href="https://edchao.files.wordpress.com/2006/11/photo-31.jpg" title="smart"><img src="{{ site.baseurl }}/assets/photo-31.thumbnail.jpg" alt="smart" /></a></p>

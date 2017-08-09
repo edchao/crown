@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>yes yes, there are a great many new things in my life.  new job, new transitions, new places, new people, new ministry.</p>
 <p>But the most important out of all of these is...</p>

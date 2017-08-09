@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Regardless of the situation,</p>
 <p><strong>1. Don't live in fear. </strong> All things serve your best eternal interest no matter how awful they may appear.</p>

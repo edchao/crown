@@ -10,11 +10,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I wonder about my life, and what I've amounted to.</p>
 <blockquote><p><span class="body">Strive not to be a success, but rather to be of value.</span></p>

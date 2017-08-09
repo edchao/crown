@@ -12,11 +12,11 @@ tags:
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>In James 2, it is written, "Was not Abraham our father justified by works"</p>
 <p>This is the cause of great confusion, especially in the light of Romans 3:28, "For we hold that one is justified by faith apart from works of the law."  For this dilemma I offer 4 observations.</p>

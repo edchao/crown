@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I haven't watched this show before.  and I haven't reallly watched it this season.  But I did watch the last two episodes.</p>
 <p>So here is the lowdown.  Out of hexa women, Jason (the bachelor) finally filtered it down to two girls.  Molly and Melissa.  According to his word, he was "in love" with both of them.  And no wonder, he basically had a honeymoon with both girls for a number of weeks before he dropped the rock.</p>

@@ -10,11 +10,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>true, i have not blogged in awhile.  This is due to some unforseeable events: 1. I am busy 2. work is busy 3. responsibilities pounce on me like a jungle cat.</p>
 <p>I just started a new job doing graphics for an iphone gaming company.  This while also straddling consulting work through my design agency.</p>

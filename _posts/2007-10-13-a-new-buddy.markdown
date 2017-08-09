@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I caught a baby gecko in my apt.  It's the size of the first digit of my pinky.  I think I'll feed it mosquitos.</p>

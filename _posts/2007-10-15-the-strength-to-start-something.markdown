@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Sometimes we feel like we can't change.  We think to ourselves that we are far too set in our ways to ever live differently.  Some of us just feel too weak to start anew.   Years have come and gone and habits have only grown deeper.  You're asking me to change?  I can't. Not anymore.</p>
 <p>"Impossibility" in Christians is of course wrong thinking.  Before I say anything substantial, it is a fact that everyone can change to some degree.  If people who do not know the Lord can change behaviour by sheer will and conditioning then those who know the Lord of Renewal and Transformation can change too.  We can at least say that much.</p>

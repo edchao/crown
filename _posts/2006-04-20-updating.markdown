@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Yes I know I haven't posted in awhile.  That is because this quarter I have to get up at 7:30 everyday so I can't be up and about at the most ridiculous hours, hence, no talking crazy.  Furthermore, I haven't had anything really to say that would be helpful, useful, or poignant.  Well, be patient, one of these nights, the craziness will come.</p>

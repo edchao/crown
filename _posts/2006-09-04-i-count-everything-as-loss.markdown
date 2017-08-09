@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I was singing that song today, Glory of the Cross, and realized as I sung those words quoted from Phillipians 3:7-11 about how I count my life as loss, that I realized with a start (it made me stop singing) that I don't.</p>
 <p>I think I used to.  When I came in to UCLA my first year, I was ready to throw my life out the window for the gospel and the glory of Christ.  But as these four years have progressed, my grip on my life, my future, and my hopes and dreams have tightened. And I'm finding it harder and harder to pry open these stubborn fingers.</p>

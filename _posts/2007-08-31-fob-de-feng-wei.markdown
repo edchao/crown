@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Not that I want to be a push over or anything.  But I got black rimmed specs.  You see, I used to wear them throughout high school, so it's legitimate...really.  And everyone else in my family has them, so it's for familial unity too.  Okay, the thing is wearing flip flops and cargo shorts is a dead give away... and with this crew cut? c'mon.  I might as well try a little bit right?  The glasses guy said this pair was very "man."  Well, whatever.</p>
 <p><a href="http://edchao.files.wordpress.com/2007/08/photo-70.jpg" title="photo-70.jpg"><img src="{{ site.baseurl }}/assets/photo-70.jpg" alt="photo-70.jpg" width="400" /></a></p>

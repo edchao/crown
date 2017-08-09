@@ -13,11 +13,11 @@ tags:
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>When it comes to youth ministry, I'm used to the adolescent, pressured, AZN, manga reading, fob-esque, 2coofoschoo, sort of kid. They look like this:</p>
 <p><a href="http://flipnation.com/img/friends2.jpg"><img class="alignnone" src="{{ site.baseurl }}/assets/friends2.jpg" alt="" height="150" /></a><img class="alignnone size-full wp-image-510" title="n1065870064_30003109_5343" src="{{ site.baseurl }}/assets/n1065870064_30003109_5343.jpg" alt="n1065870064_30003109_5343" height="150" /></p>

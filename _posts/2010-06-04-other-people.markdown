@@ -12,10 +12,10 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Just a quick note.  Learning a simple lesson recently.  I naturally do not see things from other people's perspective.  I should.  it will make my life richer and love more genuine.</p>

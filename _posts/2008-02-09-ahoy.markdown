@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I'm back from my wonderful trip to Cali.   The food may not be as good, but boy the people are really something else.</p>

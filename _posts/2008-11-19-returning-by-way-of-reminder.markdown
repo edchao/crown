@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>It's been awhile since I last wrote down my thoughts here but I figured it was a good time, and there have been many happenings since the last entry.</p>
 <p>But first I'd like to share a few thoughts.  My first thought is more of a discovery than anything else.  It is this, that the happiest, fullest moments of my life were not when I started dating or when I got accepted to the college of my choice, or even when I got the gifts I wanted for christmas/my birthday/random acts of kindness.  The happiest moments of my life were when I knew in my heart of hearts that I was right with God, that I was walking in His way, and that I was ministering to his people.</p>

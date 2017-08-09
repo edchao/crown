@@ -9,10 +9,10 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>It's better to be sorrowful while walking with the Lord than it is to be happy while walking away from him.</p>

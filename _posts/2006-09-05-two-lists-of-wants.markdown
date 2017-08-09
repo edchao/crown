@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>that's what we've got, a wish list and a reality list.</p>
 <p>We all have wishes and dreams for what we want our life to look like but we know that in all reality, that list won't be full of check marks.  Reality seems much colder, much less fulfilling, much more apprehensive and hard to accept.  Our wish list is completely different, it's romantic, idealistic, and in it all of our dreams come true.</p>

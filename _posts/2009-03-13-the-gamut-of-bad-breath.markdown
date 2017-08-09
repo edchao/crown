@@ -16,11 +16,11 @@ tags:
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><a href="http://www.dentistinlondon.co.uk/images/bad_breath_clip_image002.jpg"><img class="alignnone" title="bad breath" src="{{ site.baseurl }}/assets/bad_breath_clip_image002.jpg" alt="" width="445" height="322" /></a></p>
 <p>Bad Breath is infamously terrible.  Anybody has been there, sitting in front of a teacher who drank too much coffee, or a friend who has just eaten a banana. You smile, but under that smile is a row of gritted teeth.  I'd like to talk about the types of bad breath that are out there, and possible solutions for them.  I know I would usually put this in my Tumblr blog, but since this will be a longer post, I might as well post here.  The following is a compilation of the top 12 bad breath types, in order of descending intensity.</p>

@@ -14,11 +14,11 @@ tags:
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I am a real critic.&nbsp; I know that's generally a bad thing, but you know, sometimes it's both necessary and helpful.&nbsp; Sometimes people are scared of being critics because they don't want to look prideful, fanatical, or self-centered.&nbsp; Well... can we should all accept the fact that criticism is not about the content of the speaker's character, but the content of his criticism?&nbsp; Ok.</p>
 <p>We should all be humble hearers. Listen to Sermons with gratitude and respect for the Minister. Few people know the cost of the preacher's labor, and even fewer understand the scale of a pastor's ministry.</p>

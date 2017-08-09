@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I found it funny that in one of the Chinese apps it asks :</p>
 <p>你會不會看中國字？ ___會 ＿＿＿不會</p>

@@ -9,10 +9,10 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Just because you can't win, doesn't mean you've got to be defeated.  Not all victories shine brightly.</p>

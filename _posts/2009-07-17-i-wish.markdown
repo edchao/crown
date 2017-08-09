@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Life was simpler and that I was better at it.</p>
 <p>I also wish my blog had music playing on loop.</p>

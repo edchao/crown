@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>There are some topics that have been on my mind lately that I think I will write about in the future. Here's a preview list.</p>
 <p>1. Sanctification and Identity<br />

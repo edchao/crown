@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Have you ever preached the gospel to someone who not only recognized their sin but was okay with being punished for it by God?  Have you ever met someone who felt as though they needed to pay their dues in life, and therefore refused to repent and believe in Jesus? Have you ever felt as though you yourself needed to be punished after sinning against the Lord?</p>
 <p>All of these instances are not uncommon.  There is an inherent sense of justice in everyone, and those who cannot run from it and who refuse to escape it, often end up embracing it.</p>

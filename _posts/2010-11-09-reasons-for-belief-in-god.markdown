@@ -14,11 +14,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <div>A lot of people have asked me why I believe in God (and by implication why I am a Christian.)  I have composited a list here of a number of reasons that often come to mind. It is not a comprehensive list but it is one that I do often mentally reference.  The order of this list goes from most rational to most extra-rational (not irrational, I do not believe I am rejecting rationality in any of these).</div>
 <div>

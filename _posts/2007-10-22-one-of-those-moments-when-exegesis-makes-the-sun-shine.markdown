@@ -13,11 +13,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <br />
 <blockquote><p>a. 8 The Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, “ALL THE NATIONS WILL BE BLESSED IN YOU.”</p></blockquote>

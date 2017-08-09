@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Eastbay Baptist it is.</p>
 <p>I will still be buddies with the other churchies but I'm going to settle and invest at EBCT.  The answer is clear.</p>

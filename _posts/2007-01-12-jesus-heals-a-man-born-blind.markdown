@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I love this account.</p>
 <blockquote><p>““Since the beginning of time it has never been heard that anyone opened the eyes of a person born blind. “If this man were not from God, He could do nothing.” They answered him, “You were born entirely in sins, and are you teaching us?” So they put him out.</p>

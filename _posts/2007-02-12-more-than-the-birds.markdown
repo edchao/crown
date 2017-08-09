@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Matt 6:25 begins with "For this reason" signaling the further development of the previous thought.  That thought is this, “No one can serve two masters; for either he will hate the one and love the other, or he will be devoted to one and despise the other."</p>
 <p>The passage which follows is famous for comforting those who are anxious.  In fact, so common is this specific use of these verses that in some bibles the section is given the title "The Cure for Anxiety."  And yet, I believe that if all you see is a solution for anxiety you've missed it.  That's not the point.</p>

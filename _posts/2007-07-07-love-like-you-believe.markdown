@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Over the past four years, I've heard over and over again from numerous sources that "love" is a decision, "love" is a choice.  Perhaps you have heard it too. Often people describe "love" in this way as a reaction towards the growing misunderstanding of what real love is especially as it is portrayed in movies, tv dramas and hence our culture today.  Well, I certainly don't disagree that Love is a decision.  In fact, I believe that Decision is indeed a major characteristic of love and I wouldn't have it any other way.  But just as a characteristic does not create the whole, neither does decision create love.  Or else we might as well just equate the two together and use the words interchangeably.  But just as a square is more than a rectangle, love is, as I propose, more than just a decision (though of course never less.) But this is more than just a proposition.  If you will turn your attention to the Scriptures, perhaps we can look together at the face of Love and see just what love really is.</p>
 <p>The greatest example of love is of course found in our Lord Jesus.  Well that's a no brainer.  His place in the history of mankind when he walked this earth and ministered to the sick, ultimately giving his life as a ransom for his enemies, was what the apostle John calls the truest demonstration of love.  Jesus in pouring out his life, set forth an example for us to follow.  He made a choice to embrace his enemies and to suffer for their sake.  Why?  Because it was simply in his gracious freedom to do so.  Nobody compelled him, He did it out of pure and undefiled, holy initiative.  It was His choice.  Love began with a decision.</p>

@@ -12,11 +12,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>One of the things that I absolutely love to see in people is that precious desire to learn the lessons of life and godliness, day after day.</p>
 <p>Generally speaking, It is my belief that most people (in this country) are passing through their lives on <em>Default</em>.  In other words, their existence become a constant and may I say boring, flow of stimulus and established reactions.  No real changes there.  It's quite rare to find someone who considers daily how and where within their personal lives, they can grow towards becoming a better person (all nuances of "better" entailed).  And the tragedy of this is that there is a sort of unspoken finality to the <em>Default</em> mindset in people.  Once people pass through those precocious teenage years and step over the quarter life mark, something interesting happens.  People suddenly begin to see themselves as a set package of traits that have become fixed like a finished puzzle, its pieces rigidly locked in place.</p>

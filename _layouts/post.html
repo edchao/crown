@@ -3,7 +3,11 @@ layout: default
 ---
 <div class="post-header">
   <h2 class="post-title">{{ page.title }}</h2>
-  <div class="post-date">{{ page.date | date: "%B %e, %Y" }} · {{page.author}}</div>
+  {% if page.author != "Ed" %}
+    <div class="post-date">{{ page.date | date: "%B %e, %Y" }}</div>
+  {% else %}
+    <div class="post-date">{{ page.date | date: "%B %e, %Y" }} · {{page.author}}</div>
+  {% endif %}
 </div>
 
 <article class="post-content">

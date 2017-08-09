@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Most people ascribe insensitivity to men as opposed to women, but I think that is an illegitimate observation.  Women can be and are often just as blunt and unfeeling in their words as men are.  Truly both men and women need to work on gentleness.</p>
 <p>I find that girls often forget that guys are breakable.  They say things expecting them to be men which, in their mental dictionaries entails "strong and resilient and able to handle difficulties cooly", but in the end what really happens is when they speak their words they crush them and never give a second thought to it because guys don't show their pain.  You know why? Men also understand that they must be, as stated before "strong, resilient, and able to handle difficulties cooly".  So they're in the doghouse, they've got nowhere to go.   </p>

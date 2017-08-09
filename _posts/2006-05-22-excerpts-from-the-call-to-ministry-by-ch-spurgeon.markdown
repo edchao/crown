@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>(taken from Ray kwan&#39;s rockin xanga site, entry Aug 14 2004)&nbsp;</p>
 <p>1.	&ldquo;The first sign of the heavenly calling is an intense, all-absorbing desire for the work.&rdquo;</p>

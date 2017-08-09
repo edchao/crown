@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I had a really great conversation with a home friend recently wherein I made these milestone comments which I think are worth noting (bear in mind this is just light-hearted banter. banter!):</p>
 <blockquote><p>10:02:56 PM mrXenoid: if it were up to pure objectivity, would you find xxxxxxx attractive?<br />

@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>You don't need to be smart to understand the Scriptures or to study theology.  My gracious and long-suffering friends, you should all realize by now that I'm not smart.  I just read the material.</p>
 <p>but that's not a big deal.  Even unbelievers read the material and are allowed to deduce the correct meaning from it.  What is a big deal is being changed by the Scriptures, being changed by the theology, and having it all well up into a big bucket of doxology.</p>

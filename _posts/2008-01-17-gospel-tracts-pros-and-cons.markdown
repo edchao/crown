@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>ever pick up a gospel tract with pictures of hell and people walking into the mouth of a gigantic flaming skull? I have.  How do I feel about that?</p>
 <p>Well, I feel two things. First, I feel put off.  Secondly, I feel sorry.  I feel put off because the message of the tract seems to "revel in" rather than "revere" the wrath and Justice of God.  Though I am an unapologetic about God's wrath, that doesn't mean I enjoy morbidly depicting hell for people.</p>

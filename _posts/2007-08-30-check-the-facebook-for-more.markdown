@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><a href="http://edchao.files.wordpress.com/2007/08/dsc03377.jpg" title="room"><img src="{{ site.baseurl }}/assets/dsc03377.jpg" alt="room" width="400" /></a></p>

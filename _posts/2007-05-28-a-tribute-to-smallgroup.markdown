@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><img src="{{ site.baseurl }}/assets/smallgroupSR.jpg" alt="smallgroup" align="left" height="340" /></p>
 <p>I love these guys.</p>

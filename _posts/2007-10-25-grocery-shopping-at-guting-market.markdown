@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I went with <a href="http://thehaucks.blogspot.com/">Sanny</a>, my pastor's wife this morning.  (just got back actually).   It's this long alleyway that's roofed off, packed with endless stands and goodies.   Here's the list of the things I got, I don't know how to translate it but I'll try my best:</p>
 <ol>

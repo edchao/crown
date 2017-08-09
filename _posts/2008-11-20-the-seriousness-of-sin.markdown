@@ -13,11 +13,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Every once in awhile it is generally good practice to think upon the topic of sin.  Since life progresses at an alarming rate, our minds naturally have trouble holding on to the convictions we develop, and even more importantly the holy affections and holy hatreds that attend those convictions.  Furthermore, in a society where Sin is overlooked, misunderstood and often even celebrated to the point of worship (see the adolescent fawning of the pimpin' gangsta lifestyle), the good Christian will often feel like he is a stick of flavored gum being chewed and chewed until the taste is all gone.  That is how hard it is to maintain a biblical consciousness of Sin. Anyways, it's good to stay sharp and most of us, myself included don't.</p>
 <p>Sin is serious for a variety of reasons.  The one that most often comes to mind, at least for me is that the punishment warrants a serious outlook, hell is hot and it's no joke.  Another reason is the sheer magnitude of our offense when our sins are brought before a perfectly Holy God.  We commit treason on a cosmic level everytime we say yes to Sin.  Okay, so there are countless reasons for why sin is seriously bad. However one that I would like to discuss here is the effect of Sin on the human heart and its significance concerning the cross of our Savior.</p>

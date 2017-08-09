@@ -20,11 +20,11 @@ tags:
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>[caption id="" align="alignnone" width="400" caption="christian youngsters, raising hands during worship"]<img title="hands raised" src="{{ site.baseurl }}/assets/kids_hands_raised.jpg" alt="christian youngsters, raising hands during worship" width="400" />[/caption]</p>
 <p>When I was in junior high and high school, I subscribed to a brand of Christianity which I will here call Adolescent American Passion (AAP) Christianity.  It was a fitting brand of Christianity for me at the time, as it is for most teenagers simply because emotions are easy.  and teenagers have a lot of them.  If I take a survey of all the conferences, camps, movements and christian events I have ever attended, I can guarantee most of them were filled to the brim with AAP kids.</p>

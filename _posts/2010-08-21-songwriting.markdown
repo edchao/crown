@@ -11,11 +11,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I think I'm going to start trying at this songwriting thing again.   I've always wanted to spend a legit amount of time just doing this and enjoying what I come up with, but I've been putting it off forever, because I normally don't enjoy what I come up with.  but this time, I'm gonna roll with it, just for process' sake.</p>
 <p>Oh yes, and I'm gonna try really hard not to come up with anything cliche.  good luck right?</p>

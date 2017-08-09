@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Congratulations Morgan Pixley!  Apparently you can't fight the feeling anymore.</p>

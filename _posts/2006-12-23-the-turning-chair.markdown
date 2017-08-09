@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>the faint hum of the air conditioner makes the silence cold in more than one way</p>
 <p>I sit in the chair, full of thoughts, and melodies of songs unsung.</p>

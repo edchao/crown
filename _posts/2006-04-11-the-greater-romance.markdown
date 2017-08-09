@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>There is an issue which I have often thought about simply because it is an issue that presses hard upon every young man when he must transition from living as a single man to living as a married man. It is of course, as you have certainly guessed , the issue of relationships, dating, marriage, and so forth. Maybe I should simply call it, Romance!</p>
 <p>What I would like to say about this issue is simple. Listen closely. I don't think this is too difficult to grasp. For all you young men, get this: life is bigger than you and her. (And for all you young women, life is bigger than you and him.) And most of you are missing the point of life.</p>

@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I've heard it on multiple occasions that when a Christian sins, he is being a practical atheist. An atheist does not believe in God. His very existence is rejected. And therefore there is no reason for the Atheist to follow what "God" allegedly says. "To sin" or commit moral offense then, means nothing but to violate a social construct developed over years of human evolution. The logical response for the thinking Atheist is therefore: "'God' shall not bar me from doing what I desire to do". Strangely enough, Christians think this way all the time. That's why Christians sin. They are being practical Atheists every day.</p>
 <p>Now can I say that I respect Atheists who practice their mantra in that they are being consistent with their convictions. You see a logical atheist is bound by rationale to serve himself. If there is no God, there is only man himself, the throne belongs<br />

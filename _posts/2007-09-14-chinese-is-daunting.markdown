@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Elementary school kids graduate with a knowledge of 2,500-3,000 words.  That's level 3-4.</p>
 <p>Junior High kids are level 5-6 (majority of modern novels, newspaper)</p>

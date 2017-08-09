@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I stumbled across some of these old photos, I thought I might share them with you all.</p>
 <p>1. in cambridge with korean fob friend, hair bleached, riding a bike chained to a pole (people don't think this sort of thing is very funny, but it used to be a real good conversation starter.)</p>

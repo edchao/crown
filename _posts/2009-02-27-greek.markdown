@@ -10,10 +10,10 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I'm reviewing my greek again.  Got a thousand or so cards.  Hello rote memorization.</p>

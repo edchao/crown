@@ -14,11 +14,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 excerpt: The Scripture says that the human condition is one of "alienation."  As a
   race, we are tragic and broken. We are not what we were meant to be, and we see
   it in our sin and our self-disgust.  One of the most poignant observations ever

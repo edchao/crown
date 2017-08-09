@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I picked up a few movies today. Blade-Trinity, Eragon, and Children of Men.</p>
 <p>I also watched Pan's labyrinth tonight for 2 bucks at Ackerman.</p>

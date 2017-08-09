@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><strong>People have two misconceptions about Mosaic Law</strong><br />
 1. Salvation was by obedience/works under the Old Testament Mosaic Law<br />

@@ -13,11 +13,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Thought 1. Sin is a tremendous problem.  Its effect upon our souls is infinitely severe.</p>
 <p>Thought 2. For a problem of infinite severity you must either have infinitely numerous solutions each with limited effect OR a single solution with infinite effect.</p>

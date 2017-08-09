@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I learned a lot. ask me about it sometime, i'd love to share. Here are some excerpts</p>
 <p>First I got to Taiwan and hung out with family (we also went to Shanghai and HK) and what did we do? guess.</p>

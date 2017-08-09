@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>came across the quote recently and thought I'd share it.</p>
 <blockquote><p>"Without the aid of trained emotions the intellect is powerless against the animal organism. I had sooner play cards against a man who was quite sceptical about ethics, but bred to believe that 'a gentleman does not cheat', than against an irreproachable moral philosopher who had been brought up among sharpers. In battle it is not syllogisms that will keep the reluctant nerves and muscles to their post in the third hour of the bombardment."<br />

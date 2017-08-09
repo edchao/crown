@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>a shower of crystals, a midnight blue flickering,</p>
 <p>I linger there, like a slow closing door.  thinking, dreaming, wondering in general</p>

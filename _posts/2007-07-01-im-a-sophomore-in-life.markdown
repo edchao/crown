@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>People tell me I'm getting old.  I don't really think I'm that old, but I suppose I can see where they're coming from.  School is over, real life is beginning.  The fun is over, responsibility begins.</p>
 <p>But I like to think about it this way.  Just before you get to serious about this, let me just say that it's not biblical, it's just interesting.  If the Bible says life runs about 80 years, then I'm in my sophomore year of life.  1-20 is freshman, 21-40 is sophomore, 41-60 is Junior, and 61-80 is the wise senior.</p>

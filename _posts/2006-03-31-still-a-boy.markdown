@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I am 21 years old.</p>
 <p>I know that i am supposed to be strong and stable, have a thick skin and have the charisma to lead people and have them depend on me. I should be like Edwards and Spurgeon, great men of God by the time they were in their early teens. You know I wish I were.</p>

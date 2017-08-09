@@ -12,10 +12,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>John MacArthur gives an excellent summary of the infamous "Problem of Evil" and clearly points out all the weak spots of traditional rebuttals and ends with the right conclusion.  For those who have been struggling with the co-existence of God and evil,<a href="http://www.gty.org/Resources/Transcripts/90-333"> check it out. </a></p>

@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>yes, it's been awhile. I liked talking crazy, but I don't want to refer to Bible study or Theological discussion as that anymore.</p>
 <p>I think this one is more fitting.  I'm writing all of this stuff in hope.</p>

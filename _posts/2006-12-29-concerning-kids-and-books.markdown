@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>It was a cold day today.  The sky was grey, the winds were up and my ankles were sore from walking too much the day before.  I spent a good portion of the afternoon sitting in a coffee shop, nursing a latte, reading a relatively engaging title "Five View on the Law and the Gospel."  Due to a certain melancholy film that has settled over my life these past few weeks the book has been a welcome academic respite, albeit brief, which has helped me to flip on at least little light in my head in the midst of a growing darkness.  The bulk of the book is rather daunting, being composed of a number of exegetical essays (some more exegetical than others) as well as responses, and it introduces the reader to the five major stances on the position and practice of the Law pre and post-cross for the saint of the period.</p>
 <p>I don't want to talk about the book as much as I want to talk about the effect it had on me this afternoon.  To put it simply, after I left the coffee shop, only moments after the door closed behind me, the little light that was switched on when my mind started tackling the material, was switched off.  What followed was like one of those sighs you let out after watching the brown volvo station wagon, which you thought was your mom coming to pick you up, dissapear around the curve.  You sort of knew it would happen but were hoping it wouldn't.</p>

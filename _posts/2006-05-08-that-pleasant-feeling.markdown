@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>It&#39;s hard to put your finger on.&nbsp; But it&#39;s a good feeling.&nbsp; And it comes after you have turned your eyes upon Jesus, having stopped your mind from thinking about all the doubts and fears which come when your attention settles upon yourself.&nbsp; In Christ, all fears are truly relieved.&nbsp; When the mind is fastened with faith upon the Sovereign, the heart must inevitably swell with trust, and immediately all the craziness of the day turns to powder and blows away.&nbsp; I know it&#39;s always semi-cheesy to quote lyrics, but I must admit I am very partial to cheesines in this moment.</p>
 <p>In you I have found the wealth of my life<br />

@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>In smallgroup the other day, the question was asked "say, if in the highlands of Papua New Guinea, there was a man who never heard the gospel, isn't it unfair that hes going to hell because he never had a chance to hear the good news?"</p>
 <p>Sound familiar? It's A good question, but a misleading one.  I am certain that many of you have stumbled over the same question albeit in a different form or context in multiple instances.  The reason the question is good is because it gets people to start thinking of human responsibility.  The reason why it is misleading is because the question is in fact two distinct questions fused or in some cases confused into one.  Those two questions are:</p>

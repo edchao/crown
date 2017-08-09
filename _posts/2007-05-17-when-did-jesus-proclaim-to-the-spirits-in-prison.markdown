@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>see 1 Pet 3:18</p>
 <blockquote><p>(1a) For Christ also died for sins once for all, the just for the unjust, so that He might bring us to God,</p></blockquote>

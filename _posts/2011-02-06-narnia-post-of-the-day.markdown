@@ -11,10 +11,10 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><a href="http://edchao.files.wordpress.com/2011/02/narniaart3.jpeg"><img class="alignnone size-full wp-image-690" title="narniaart3" src="{{ site.baseurl }}/assets/narniaart3.jpeg" alt="" width="500" height="263" /></a></p>

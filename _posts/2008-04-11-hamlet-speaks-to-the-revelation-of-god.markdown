@@ -13,11 +13,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>(this is for my dear friend steve tu, who shares the same love as I do for the knicks and crannies of God's greatness)</p>
 <p>An excerpt from Tim Keller's talk at Google:</p>

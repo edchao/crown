@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p> Last year when I posted about Thanksgiving I made a <a href="http://edchao.wordpress.com/2006/11/22/thanksgiving/" title="Thanksgiving">list of things</a> I didn't deserve.  This year I just want to add on a couple more things in those same categories.</p>
 <p><strong>Spiritual Graces</strong></p>

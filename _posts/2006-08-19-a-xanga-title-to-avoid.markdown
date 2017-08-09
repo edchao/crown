@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>"You think you know me, but you have no idea."</p>
 <p>perhaps you've seen it, maybe a variation like "don't judge a book by it's cover" or "You don't know the half of it."</p>

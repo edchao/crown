@@ -9,10 +9,10 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><a href="http://video.xanga.com/jonchao/447ef22760/video.html" title="bubbles">link</a></p>

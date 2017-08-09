@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>If you haven't read the Redwall series yet, you are seriously deprived.  This is one of the best children's fiction series ever. (Rivalring harry potter, and a distant second or third to Narnia)  Every night I read a little bit, and it's like eating a nibble of dark chocolate at the end of the day.  Mice with swords, battle-scarred badgers with armor, big bad rats with long poison barbed tails, honor, glory, sacrificial brotherhood, and integrity.  What more could you ask for in a good yarn?  I mean check out this awesome picture:</p>
 <p><img src="{{ site.baseurl }}/assets/martin.jpg " alt="Redwall" height="325" width="247" /></p>

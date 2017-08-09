@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>two more weeks of work before glorious school...</p>
 <p>I've had a pretty crazy week.  Praise the Lord for the little pleasures in life that pick you right back up when your day goes downhill.</p>

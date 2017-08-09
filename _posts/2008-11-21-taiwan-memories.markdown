@@ -10,10 +10,10 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>[youtube=http://www.youtube.com/watch?v=KiC9MOEfDLA&amp;hl=en&amp;fs=1]</p>

@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Just these past few days, I've watched a number of father-daughter exchanges.   I went to Greg and Cami's wedding and watched the father daughter dance.  I hung out with Becca's sisters (5 in all) and then met their dad.   I went to church today and watched a father baptize his daughter.  I feel like I witnessed another exchange sometime in the week but I can't seem to recall it right now.</p>
 <p>The point is, I really think one of the most moving things is the relationship between a father and his daughter.  So lately I've been thinking of what it'd be like to have a daughter.  What would I say to my daughter if I knew I was either going to go away for a long time or go meet the Lord.  If she was still a kid, I'd try really hard to tell her the Gospel.  But I don't know if I'd make it simpler than it really is.  I was standing in the elevator today and thinking maybe I'd say something like this:</p>

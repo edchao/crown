@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Believe it or not, I have never been to one until today.  UCLA 31, Stanford 0.  blowout.</p>
 <p>At first I was apprehensive.</p>

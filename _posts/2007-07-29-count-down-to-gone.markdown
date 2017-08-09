@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>There's less than one week left for me here in L.A.   Saturday morning while the sun is still rising I'm scheduled to drive up north to spend a couple weeks with my folks before  I hop onto a plane for Taipei and the city life.</p>
 <p>So if you are still around and have some spare time on your hands, I'd be deeply touched by even the briefest of tootles and a cheesy smile to remember you by.</p>

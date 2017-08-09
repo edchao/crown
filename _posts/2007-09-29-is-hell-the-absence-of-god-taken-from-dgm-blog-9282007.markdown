@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>"R.C. Sproul gives a masterful response to this common explanation:</p>
 <blockquote><p> 	It is common to say that hell is 	the absence of God. Such statements are motivated in large part by the dread of 	even contemplating what hell is like. We try often to soften that blow and find 	a euphimism to skirt  around it.</p>

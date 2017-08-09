@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I'm not planning on dying any time soon but I was just meditating on the verse "life is a vapor," and decided, if that's the case I might as well get started on writing my last words, just in case you know...yeah.  Well here we go:</p>
 <p>&lt;insert tragic death&gt;</p>

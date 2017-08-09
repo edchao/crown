@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>If Christ has not been raised, our preaching, our faith, our witness, is worthless,we are still in our sins and all who have died before us have perished. And we Christians are the most pitiable and tragic of all people.</p>
 <p>But, He is risen, even as He said.</p>

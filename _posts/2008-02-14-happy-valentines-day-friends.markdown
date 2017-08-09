@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>“  The Spirit and the bride say, “Come.” And let the one who hears say, “Come.” And let the one who is thirsty come; let the one who wishes take the water of life without cost.”<br />
 (Rev 22:17 NAS95S)</p>

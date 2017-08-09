@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>when all else fails, there is One unfailing.</p>
 <p>These past few years, I've had alot of dreams crushed.  I wanted to come into college, start dating the girl of my dreams, get good grades in school, learn to study the Scriptures and deliver the truth in them to others, graduate early, learn all the programs and software, and slide immediately into work, get married, have kids maybe, go to seminary, and missions or pastoral work.</p>

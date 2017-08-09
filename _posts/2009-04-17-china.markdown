@@ -11,10 +11,10 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>My parents just came back from China where they were overseeing a medical aid effort to provide heart surgery for impoverished children with congenital heart disease. The children live in the barren wasteland of Qin’an County, Gansu, China where food is a luxury. They live in literal shacks with no running water. There are no farm animals, just dust and crabgrass. The daily diet is composed potatoes which may or may not grow throughout the year. Recently a number of children were sponsored by my family’s foundation to receive heart surgery to fix their congenital heart defects. In one case, a young girl was chosen and due to her failing condition, her mother had to carry her 3 hours to the bus station on her back. Then the two of them then took a series of trains and buses to reach the hospital. After the operation was over, the only thing the mother had to give the child to eat was some poorly kneaded mantou (buns) which she had dried ahead of time for the journey. Before feeding it to her recovering child she first had to dip the buns in water to make them soft enough for her daughter to eat. If anyone of you have had a mantou you know it’s void of nutrition, dry, and relatively tasteless, but it’s the best they had. After the operation these families usually have spent all of their life’s savings on the journey, and no longer have the money to pay their way home.  It’s a heartbreaking situation. I wanted to share this with you guys, because it’s such a reality check for us. Listening to my dad tell the story of these impoverished families reminds me that 95% of my life is luxury.</p>

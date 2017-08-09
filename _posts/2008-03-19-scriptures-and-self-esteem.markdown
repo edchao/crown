@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I was randomly reading this article on DGG and came across this paragraph.  It is excellent.</p>
 <blockquote><p>"Very often our misunderstanding of Christ's word is due not to innocent intellectual slips or lack of information but rather springs from a deep unwillingness to submit to the demands of God. In other words, a disposition of the heart which desires to determine its own affairs, to maintain its own pride, and secure esteem and glory from men, will inevitably twist the words of Jesus to support its own self-esteem. The evil of the human heart regularly precedes and gives rise to many of our apparently intellectual misunderstandings and abuses of Scripture."</p></blockquote>

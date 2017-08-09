@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I've never considered myself terribly strange.  Of course I've heard that in the past I've been labeled as something of an eccentric, perhaps awkward, or a bit more on the weird side.  But to be quite honest, if you know me, I'm not too far from the regular joe.  At this point, I'm sure many would scoff.  Read on.  Let me put it this way. I'm normal enough to be able to hold a conversation without causing people to turn tail and run.  Strangers don't walk into my apartment and freak out.  I don't wear clothes that makes people cringe and I don't have any exceedingly anti-social habits like eating my boogers or smelling others armpits.  I take showers often, use old spice deodorant, put on clean clothes each morning, eat 3 meals a day and try to stay fit.  I don't make it a hobby to stalk people or garner information about things I shouldn't know.  I'm not a hot-headed person or a psychotically sad emo or a hopeless bipolar.  Of course I'm not saying I don't get sad or angry, but the extremes are never that noticeable or common in my daily life.   I don't listen to weird music, or music that you can't understand how anybody could appreciate.  Even though I have hermit-like tendencies, I also enjoy being with people, enough that sometimes I'll get out just to find some friends.  I eat relatively normal things (for my nationality).  I try to be frugal.  I have excellent oral hygiene and I'm lazy with my contacts just like everyone else.</p>
 <p>So in short.  I think I'm pretty normal.  Even though I might be a bit weird, everybody is weird in some ways, but hey, that's normal.  If you've got nothing special about you, well, I'm sorry but then you're just...weird.</p>

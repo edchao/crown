@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><span class="huge">Part of every misery is, so to speak, the misery's shadow or reflection: the fact that you don't merely suffer but have to keep on thinking about the fact that you suffer. I not only live each endless day in grief, but live each day thinking about living each day in grief.</span></p>
 <p><span class="bodybold">-C. S. Lewis</span></p>

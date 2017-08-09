@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p> I just watched Princess Bride.  Loved it. Don't intend to let any of it's messages or ideals get into my head or affect my life</p>
 <p>That's how it is with all Romantic Comedies huh,</p>

@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Serving the body of Christ can be an enjoyable thing, and make no mistake, it should be.  However in these last few years, I have come to the conviction that the gauge of service cannot be determined by sheer enjoyment as we often can rate what is enjoyable and what is not.  There needs to be a clarification as to how enjoyment and service intertwine.  It is not the service itself that should provide the enjoyment but the deeper, eternal impact to which the service paves a way.</p>
 <p>So what does that mean practically?</p>

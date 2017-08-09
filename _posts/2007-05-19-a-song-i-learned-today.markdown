@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Met a guy on skid row tonight, he sang me a song before we parted ways, the refrain went like this.</p>
 <p><em>"you can't give, love,  if you can't see, love.</em>"</p>

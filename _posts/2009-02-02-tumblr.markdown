@@ -10,10 +10,10 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>So i've decided to start yet another blog for <a href="http://edchao.tumblr.com/">post-College life</a>.  This one therefore will now forever be categorized as my College Blog.  And my xanga will forever be called my <a href="http://www.xanga.com/calibercross">Pre-College blog</a>.  wawaweewa!</p>

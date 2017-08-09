@@ -10,11 +10,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>That means I'm back from vietnam. but not back to the states.</p>
 <p>I listend to phil wickham's "Your beautiful" today</p>

@@ -13,11 +13,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I feel very liberal these days.  Not theologically of course, but in practice.  For the orthodox Christian, that may sound like complete nonsense, since "orthodoxy leads to orthopraxy," meaning right doctrine translates into right practice.  But I have to say that after graduating and walking into the so called "real world."  Life has taken an interesting turn.  In the past, I used to think orthopraxy meant pursuing an active bent towards making all and every opportunity openly serve the purposes of evangelism or edification.   But strangely enough I found that that approach alienated people, not just non-believers but believers too.  Rather than closing the gap and helping people get closer to God, it widened it, and gave them a distaste for Christianity, which was the exact opposite of what I wanted to achieve.</p>
 <p>In these last three years, things have really changed.  I have learned more and more to be gracious with doctrine, pushing forward the results of doctrine such as love, honesty, humility and so forth, while allowing doctrine itself to be a silent friend standing beside me. Present but never outspoken.</p>

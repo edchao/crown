@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>One of the things that make joy joyful is joy promises joy in the future.  I'm not trying to be redundant, I promise.</p>
 <p>Drinking ice cold orange juice after working out is incredible at the very first sip because you know that in that moment, just for a few seconds more that feeling of  "ahhh" is going to keep going.  Thanksgiving day feels wonderful because when you wake up in the morning you know you have a full day of crazy fun in store and a big fat turkey waiting for you at the dinner table.  Going to sleep on Christmas Eve is precious because when you put your head down on your pillow you know that tomorow you will wake up to a fresh smelling christmas tree, presents, and family. Soap operas are great because you know that no matter how good the episode ends, there's always another episode full of wonderful sappiness just waiting to be watched.  Dating is great because you know that no matter how happy you are when you're with your significant other, she'll still be there (or he'll still be there) even after a minute is over.</p>

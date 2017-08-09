@@ -11,10 +11,10 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>when you would rather buy a book than buy anything else (that includes, food, drink, instruments, music, fancy toys, etc.)</p>

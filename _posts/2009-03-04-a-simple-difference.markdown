@@ -16,11 +16,11 @@ tags:
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>It's confusing sometimes.  When does friendship become dating?  And are they really even different? Isn't it a square vs. rectangle issue?</p>
 <p>Well let's make it clear:</p>

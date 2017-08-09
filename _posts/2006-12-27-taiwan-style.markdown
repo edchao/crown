@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Hello my friends and faithful blog-stalkers.  Top of the morning to you from the wonderfully polluted asian urban wonderland, Taipei, where every restaurant serves the best food you've ever had, and the people all smell like grandma's living room.  Where the icy winter winds drop to a deadly 60 F, and room temperature weather means the girls break out their scarves and fur coats.  Legit.</p>
 <p>I've been wanting to write something as an update and have unexpectedly just thrown out some really lame poems for filler.  I hope that wasn't so lame as to completely drive you away from this blog with disgust.  I know poetry can do that to people, especially when it comes in the form of unpolished, almost adolescent phrases.  I hate that too, that's why most of my poetry is under wraps, because I really dislike the stuff.</p>

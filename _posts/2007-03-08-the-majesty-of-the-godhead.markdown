@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Recently picked up <em>The Doctrine of God</em> by John Frame, the second book in his series "A Theology of Lordship."  It is a classic in the systematic study of Theology proper and I am excited to read it.  Also recently ordered Feinberg's <em>No One Like Him</em>, the alleged jewel of the book series, "Foundations of Evangelical Theology." All I hear are rave reviews.<br />
 So, why the interest in Theology Proper?</p>

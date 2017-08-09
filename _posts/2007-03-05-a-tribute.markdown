@@ -9,10 +9,10 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><a href="http://photos1.blogger.com/x/blogger/5420/1205/1600/150404/caleb.jpg"><img src="{{ site.baseurl }}/assets/caleb.jpg" alt="caleb" align="left" width="400" /></a></p>

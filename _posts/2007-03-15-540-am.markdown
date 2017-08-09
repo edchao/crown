@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>that's the time.  My roomate steve is going to wake up soon.  As he does I will only just be falling asleep.</p>
 <p>I'm graduating in a week.</p>

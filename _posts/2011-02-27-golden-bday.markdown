@@ -10,11 +10,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>26 on the 26th!  </p>
 <p>Another year for my heart to be lost in God.  Another year to await His coming. Maranatha!</p>

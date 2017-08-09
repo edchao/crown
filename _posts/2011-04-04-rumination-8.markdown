@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Been reading 2 Chronicles. There are so many names that just flash by, sometimes I forget that I'm reading entire lives in a few words. Kind of makes you realize how little we feel the lessons that their lives teach us.</p>

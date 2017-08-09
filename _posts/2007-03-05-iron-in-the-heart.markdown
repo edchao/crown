@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Dr. Craigen preached a sermon on the book of James a few years ago on James 5:7-8.</p>
 <blockquote><p> “  Therefore be patient, brethren, until the coming of the Lord. The farmer waits for the precious produce of the soil, being patient about it, until it gets the early and late rains. You too be patient; strengthen your hearts, for the coming of the Lord is near.” (James 5:7-8 NAS95S)</p></blockquote>

@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I went to church today feeling terrible...for various reasons, none of them important at the moment nor worth wading through in case anyone is feeling confrontational.  The  message of the day was simple, after all it was an emergent and deeply liberal presbyterian church. (Somewhat of an oxymoron I know.)  The message centered upon our honesty before God, the uncovering of out true selves and the invitation for Him to enter our very own holy of holies.  (I was apalled by the analogy but then tried to be humble about it, work with me.)  It struck a chord in me, this desire to be honest, to be real.  Lately it has been an immense issue in my life, when I am before people, when I am before God, when I am simply by myself (granted God being present in all cases.)</p>
 <p>Who am I really, and how does that correspond with what I do, what I say, and essentially how I live?</p>

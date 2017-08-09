@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>(&nbsp;not a tribute to the TonyRich project)</p>
 <p>&nbsp;In Taiwan there is no fellowship if you don&#39;t look for it.</p>

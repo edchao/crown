@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I started reading this <a href="http://thephosfour.blogspot.com/">blog</a>.  It's a bunch of EBCTers who are here in Taipei serving the Lord and ministering day after day.  They are really really encouraging. Read it if you have the chance and pray accordingly.</p>
 <p>I met this native guy Leo a while ago at the church, really great, kind, passionate, down to earth and humble guy and most of all a servant of the Lord Jesus.  What amazed me is how he came to know the Lord through the evangelism ministry of the church here.  Almost made me weep.  The action is still going on today with other people.  There's a dude John here who is currently sharing the gospel week by week with a girl named Jia Ning. Pray for her, John confronted her with the cost of discipleship today and she's thinking about it now.</p>

@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>it&#39;s a cold night.</p>
 <p>I really appreciate cold nights after a hot shower. There is this feeling of being cooled down while simultaneously being comfy. It&#39;s paradoxical.</p>

@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>we started with Will.</p>
 <p><img src="{{ site.baseurl }}/assets/DSC01528.JPG" alt="Will before bleach" height="300" /></p>

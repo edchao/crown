@@ -14,11 +14,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Boy, there have been a lot of weddings recently.  But to be really really honest, I'm not tired of them.  I think sometimes I say I am because people expect me to be, but I'm really still so happy to go to them. To see so many friends and so many smiles, all the memories that make you fuzzy and giggly, they come right on back.  :) Congrats Albert and Vicky!</p>
 <p>There really is nothing like a good Christian wedding to remind you of the meaning and purpose of life, in the final union of the church and Christ.  It gets me every time.  Just learned this song recently at Beland's church today:</p>

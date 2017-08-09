@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>The word "sin" has lost its punch.  In Christian circles, to say "I'm a sinner," is not much of a confession anymore.  We can even sit in front of our brothers and sisters in the Lord, shrug our shoulders and say it..boldly.  No big deal.  We've forgotten to blush.</p>
 <p>Here is how I remind myself of what it means when I say I'm a sinner.</p>

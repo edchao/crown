@@ -9,10 +9,10 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>[youtube=http://www.youtube.com/watch?v=2O1sO5NKMnA]</p>

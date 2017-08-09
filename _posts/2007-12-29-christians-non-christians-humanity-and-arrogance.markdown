@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><i>(This article is geared towards the conservative Christian, both theologically and in practice)</i></p>
 <p>Christians should not be conceited.</p>

@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>There are a lot of things to be thankful for, here is a list of the things I don't deserve.</p>
 <p><strong>1. Spiritual / Greater graces</strong></p>

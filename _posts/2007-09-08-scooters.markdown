@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I've been sitting on the tail end of these recently.  You know it's really fun even when you don't steer.  Kinda nice having someone else do the steering while you just hold on and enjoy the ride.  I wonder if that's what Biblical manhood and womanhood is like...yes, that would make me the woman in this metaphor.</p>

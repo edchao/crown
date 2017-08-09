@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Philipians 3:7-11 is a familiar passage to most Christians. But in that brief excerpt there is a sentence that never really hit me like it did recently during my time at my fellowship retreat. Here it is:</p>
 <p><i><br />

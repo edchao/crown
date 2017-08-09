@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Updates:</p>
 <p>- Tommorow school starts.  2 out of 3 quarters now.  Only three classes left till the end. Amazing.</p>

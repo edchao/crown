@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p> One of the most powerful supports in my life apart from the Scriptures is found in Christian hymns and songs.  Lately I have been dwelling on hymn written by William Cowper called "God moves in a mysterious way".  Waking up and walking to class the words repeat in my mind over and over again and it helps me to settle my thoughts when I get anxious or when I am laid low.  But what makes this hymn particularly powerful to me is understanding the words in view of the life of the hymn writer himself.</p>
 <p>William Cowper (pronounced Cooper) lived a life full of trial.   Even to his dying day he walked through the depths of depression and loneliness.  When he was only a child, just six years old, his mother died and he was plunged into his first bout of depression.   During his teenage years he  attempted to commit suicide by jumping into the Thames river, however due to a thick fog the cab driver that he had hired to take him there could not find the destination.  He spent the next portion of his life in an asylum where he slowly recovered under the care of a Dr. Nathaniel Cotton, a devout Christian.  Under Cotton's care and guidance Cowper came to know the Lord.  There were many more trials to come after his conversion and in the midst he wrote this powerful hymn:</p>

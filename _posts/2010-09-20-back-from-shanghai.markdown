@@ -11,11 +11,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I just got back yesterday afternoon from Shanghai.  During my time there lots of great things happened.  Here are the highlights</p>
 <ol>

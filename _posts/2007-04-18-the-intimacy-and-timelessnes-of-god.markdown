@@ -13,11 +13,11 @@ meta:
   _oembed_108809f0ad76774afc90bb54a07c0618: "{{unknown}}"
   _oembed_d4fe4204c54256317e2c7f1a6b9429e7: "{{unknown}}"
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Who doesn't like the Matrix? Come now, lets be honest. Flying bullets stopping in mid air, punching so fast your fist looks like a thousand blurs, dodging bullets fired from fully automatic machine guns ...we all wish we could either move that fast or make time feel that slow.</p>
 <p>When I first thought of the Timelessness of God, meaning that God is not contained by the constraints of Time, I thought of it like God holding a film strip between two fingers.  The film strip is the complete timeline of our current reality.  And as he holds that film strip he sees both the end and the beginning in one glance.  In that sense he stands outside of time and can observe it completely.  (This does not however nullify His ability to affect time or the series of events of which it may consist.)</p>

@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I figured I'd let you in on the fun:</p>
 <blockquote><p>"Paul an apostle not from men nor through (the agency of) a man but through Jesus Christ and God the Father, the one who awakened him out of the dead and together with me all the brothers, to the churches of Galatia.</p>

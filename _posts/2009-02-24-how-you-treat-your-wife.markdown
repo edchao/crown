@@ -10,11 +10,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>A fantastic quote from a sermon from John Street.</p>
 <blockquote><p>"...The measure of  a good shepherd is how he treats his wife... how he shepherds his own..."</p></blockquote>

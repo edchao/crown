@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I want to believe in humanity.  I want to believe that within us, there is a measure of goodness, of truth, and nobility.  And I want even more badly to believe that there is a God of wisdom and Love who values us enough to guide us in the way of life and joy.  But I must admit that my beliefs and desires to believe are severely tested by the truth of what I know of this world.</p>
 <p>Rarely do I take the time to consider the griefs our people bestow upon one another as nations, the conditions we pass over, the intense poverty, the injustice, and mass hopelessness, the wailing of countless bereaved children thrown into chaos wrought by the selfishness of other men and the apathy of our governments.  Indeed, for me, to know the truth is to hate myself, my people and at times my God.  Where is our innocence? We tremble and weep and do nothing, and our inheritance is passed on.  This is the problem of our evil.  And it is too great to stand under.  When people ask, I cannot preach it away, I cannot climb atop books and hope to escape the smoke of guilt and accusation.  War, rape, brutality, and base exploitation are what our flesh and blood have brought about.  Though it is right, it is also wrong to say that God's love is wonderful and mysterious, and His plans of expressing it complex, for to know the truth of things in this world, chokes this bold declaration into a desperate gasp for what is an increasingly elusive answer.</p>

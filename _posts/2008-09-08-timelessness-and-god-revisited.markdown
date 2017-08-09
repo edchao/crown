@@ -12,11 +12,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I have written before about <a href="http://edchao.wordpress.com/2007/04/18/the-intimacy-and-timelessnes-of-god/">God's timelesness</a>.  However I have some new thoughts, which of course are not original.  I have EBC's pastor in training <a title="Matt Hauck" href="http://matthauck.blogspot.com/">Matt Hauck</a> to thank for these musings.  We were talking about the Impassibility of God and boiled down the issue to God's relation to Time. (there are two historical notions of time, the immeasurable fundamental intellectual structure coined by Immanuel Kant as opposed to the measurable sequence of events coined by Newton. However since the Bible speaks of time being measured from Genesis 1 than we are here considering Newtonian Time)</p>
 <p>To begin, I have one simple question.  Did God create Time? The way you answer this question leads one of two paths.</p>

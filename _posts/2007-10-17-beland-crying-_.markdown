@@ -13,11 +13,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I thought I'd take the liberty to post Beland's super-long comment, it is after all more than a comment, it's a post.</p>
 <p>&lt;quote&gt;</p>

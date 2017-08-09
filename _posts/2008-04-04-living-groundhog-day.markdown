@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Groundhog day is essentially a movie about a man who gets trapped in the same day. That is, he lives the same day over and over again.  It's frustrating for him at first but then he learns to use it to his advantage to learn and perfect all sorts of sweet skills.</p>
 <p>But what if that happened to you? What would you do? What sorts of talents would you set out to claim?</p>

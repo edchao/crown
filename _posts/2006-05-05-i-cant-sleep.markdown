@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Due to a combination of sickness, excessive and uncontrollable coughing, and my innate resilience against Nyquil (and I suppose alcohol in general) I am sharp as a tack at 3:00am.</p>
 <p>Now, what to do? I have just finished talking to a young girl coming out of highschool on the topic of Saving faith. Perhaps a little summary on the main points.</p>

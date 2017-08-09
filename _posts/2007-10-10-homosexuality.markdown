@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Homosexuality is rarely dealt with in detail among conservative evangelicals.</p>
 <p>DGM does a great job covering it.  Find sermons, articles, and more <a href="http://www.desiringgod.org/ResourceLibrary/TopicIndex/80/">here</a>.</p>

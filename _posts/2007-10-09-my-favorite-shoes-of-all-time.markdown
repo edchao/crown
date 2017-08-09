@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>1. THE OG kicks:  Nike Ace'83 (Freshman Year - Present)</p>
 <p><img src="{{ site.baseurl }}/assets/ace83-90.jpg" width="400" /></p>

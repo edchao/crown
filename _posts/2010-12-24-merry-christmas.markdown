@@ -11,10 +11,10 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>“Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him.” (Matthew 2:2 ESV)</p>

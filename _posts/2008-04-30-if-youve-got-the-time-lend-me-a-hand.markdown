@@ -10,11 +10,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>if I win this, it actually means something.  It means I've done work for Shepard Fairey, one of the leading modern artists in the states today.</p>
 <p><a title="vote for edchao" href="http://www.metroparkusa.com/obey/design/893">vote!<br />

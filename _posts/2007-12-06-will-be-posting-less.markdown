@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>school is getting harder folks.</p>
 <p>for the dwindling number of my faithful readers, I'll still be posting occasionally, but don't be expecting any essays.</p>

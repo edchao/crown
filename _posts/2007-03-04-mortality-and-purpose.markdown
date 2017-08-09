@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <br />
 <blockquote><p>“  For we know that if the earthly tent which is our house is torn down, we have a building from God, a house not made with hands, eternal in the heavens. For indeed in this house we groan, longing to be clothed with our dwelling from heaven, inasmuch as we, having put it on, will not be found naked. For indeed <b>while we are in this tent</b>,<b> we groan, </b>being burdened, because we do not want to be unclothed but to be (<i>further</i>)clothed, <b> so that what is mortal will be swallowed up by life</b>. Now He who prepared us for this very purpose is God, who gave to us the Spirit as a pledge” (2Cor 5:1-5 NAS95S)</p></blockquote>

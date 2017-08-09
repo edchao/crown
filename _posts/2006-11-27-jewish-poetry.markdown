@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>...is very sad.</p>
 <p>"Our despair is domesticated and gives us peace.  Only our hopes have remained wild, their cries shatter the night and tear apart the day."- excerpt from "We did what we had to"  by Yehuda Amichai</p>

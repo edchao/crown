@@ -13,11 +13,11 @@ tags:
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I've made this statement before.  However, since I have nothing to do today, I'm going to try to go about proving it.  For every season of my life, since freshman year of high school there has been a John mayer song to characterize it.</p>
 <p>1999</p>

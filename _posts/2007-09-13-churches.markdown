@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I just got invited to another church, that makes three different churches in the past two weeks.  sheesh.  You would think that after saying, "I'm already visiting two" they'd give up, but nope.  So this Saturday is church number three.  I asked for the dude to email me a doctrinal statement, but realized that it's probably going to be in Chinese. Praise God for digital dictionaries.</p>

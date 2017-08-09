@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Just the other day, a member of our fellowship's mother passed away.  We prayed for her before she went but the Lord intended to take her home anyhow.  A little earlier than we expected.</p>
 <p>I suppose there are a number of things I want to say about it all, for the sons left behind with no parents, for the painful love of the sovereignty of God, or even for the imminency of the call to repentance for those who have not believed like she did.  But instead I want to say something simple, brief, and to the point.</p>

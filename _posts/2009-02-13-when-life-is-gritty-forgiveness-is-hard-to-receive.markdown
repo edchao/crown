@@ -10,11 +10,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>A few hours ago, I finished watching Darren Aronofsky's film,"The Wrestler".  The script is about an old independent circuit wrestler dealing with the fallout of his career due to old age and a heart attack.  When facing the reality of a less than fulfilling retirement, living  alone in a broken down mobile home, miles away from an estranged daughter, Randy (the wrestler) finds himself searching for what it's all added up to, and the depressing result is, not much.  The movie is full of dark and gritty scenes from stripper bars to up close shots of  masochistic wrestling matches.  And at the end of the film, Randy is once again in the ring.  Having been rejected by the world and feeling as though he has failed at his last chance to make things right with his daughter he declares that his only family are the people who scream his name in the stands and applaud him from outside the ring.</p>
 <p>I left the movie an emotional wreck.  And my one thought was, it must be hard to feel like you can be forgiven when your life is all grit.</p>

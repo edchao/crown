@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>concerning my last video blog, I decided to create  visual scale of ugly faces in order to clarify the distinctions between intensity of ugliness.</p>
 <p>There are in my own book at least 8 levels of ugly, usually by level 3, all girls have already dropped from the scale,(they do not have the capacity to exceed level 3) So here you are, go ahead and click on the thumb nail for a better view.<br />

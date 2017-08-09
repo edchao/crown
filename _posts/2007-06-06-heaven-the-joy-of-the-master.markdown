@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Now that my class is finally graduating from school, I can't help but think about how we started it all out.  My freshman year at UCLA changed my life.  As I began to study theology for the first time, it made me love our Lord with a passion that I had never experienced before.  And as I began to grow in my love for Christ, I could not help but grow in my anticipation of seeing Him.   You see, as Jesus became the center of my life, I became enamored with the thought of seeing Him.  The Lord whom I had loved from afar all this time, and whom I could see only in part, I so wanted to be with Him in person to see Him fully. This God-man, who was not only the King and Savior of mankind but my personal Savior and Lord.</p>
 <p>And so as the year progressed this desire to see Jesus spread throughout our freshman class (specifically the guys I think).  We were all about the return of Christ.  The Parousia, the Great arrival of our King, the final consummation of life, love, creation, and salvation.  We talked about it all the time, hanging out, at prayer meetings, at church, after fellowship, after sermons which touched on the topic.  We talked about the rapture with relative consistency too, all of us feeling the imminence of Christ's return.  And since we talked about the rapture we talked also about how we would position ourselves in the rapture...hence, rapture positions.  I still remember hearing the fire alarm in the dorms and thinking that the trumpet sound announcing the Rapture had sounded forth.  Alas, it was just a lame dorm fire drill.</p>

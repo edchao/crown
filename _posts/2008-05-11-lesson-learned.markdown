@@ -10,11 +10,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>"A life perfect ain't perfect if you don't know what the struggle's for,</p>
 <p>Falling down ain't falling down if you don't cry when you hit the floor,</p>

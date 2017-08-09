@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>It's Indonesian with a mandarin accent.  She is saying "Come back my love, let's not break up, thank you."</p>
 <p>It's taken me almost 5 years to find that out.  What a day!</p>

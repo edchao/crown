@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I was thinking about it the other day and I realized that one of the things that makes exegesis so amazing is this:  Exegesis, the study of Scripture which leads out its meaning, is the study of the very Rationale of God.  As we study the flow of argument from verse to verse, we are studying the very thought process of God, the stream of His divine Reason.</p>
 <p>Breathtaking...</p>

@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>How is it that we partake of the divine nature of God and escape the corruption that is in the world by lust? Peter spills the beans:</p>
 <blockquote><p>a.“Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord;</p></blockquote>

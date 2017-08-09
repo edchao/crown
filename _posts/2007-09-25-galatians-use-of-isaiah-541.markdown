@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>So what is Paul trying to say here?  Why pull out Isaiah?  What is this barren woman thing? Okay good question, here we go.</p>
 <p>1. The Purpose of the Section</p>

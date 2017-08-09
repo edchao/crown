@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>For the past couple of months, there has been one big difference in my life in comparison to my college days.  Unlike those four years at UCLA, here in Taipei, I have more friends who are non-Christians than friends who are.  Furthermore, I spend about the same amount of time with them as with my church buddies.</p>
 <p>It really is a big difference... especially if you're used to on-campus fellowship life like me (e.g. living in apartments or dorms next to a whole row of your fellowship friends.)  When you live alone in the city, and there are no events to go to, and it takes a train ride or a long walk to see your church homies, life changes.  Instead of walking through life with fellow believers in the Lord, you learn to walk alongside people who don't believe in the same things you do.  It's different, but I've learned to love it.  Here are some situations that I have come across which I'd like to give a brief commentary on.</p>

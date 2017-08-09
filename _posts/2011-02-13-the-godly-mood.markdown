@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>One of the most prevalent issues with people's relationship with God is their dependence on that self dictated prerequisite of being in that special "place" in order to commune with Him. It is a mood they want, an emotional or mental state of religiosity that they require before they can feel close to God. The thought is "We must feel holy before we can approach or engage in thoughts concerning The Holy One."</p>
 <p>But the problem is 90% of the time we are not in that mood.  Which of course means 90% of our whole LIFE! is not lived in communion with God.  So what happens by implication is that the 10% of "godly mood" where we do engage God becomes more and more ritualistic.  It becomes special, exclusive, and to some even necessary! By having preconditions for meeting with God, whether temporal, emotional, or physical, we essentially reconstruct the veil that Christ died to tear, and reinstitute our own version of the Law.  We say we must do this, or be in this place, or maybe feel this way, and for this long, in order to be ready to engage God...  seriously? If you think about it, you probably do it too.</p>

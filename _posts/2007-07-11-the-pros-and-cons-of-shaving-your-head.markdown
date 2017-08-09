@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><img src="{{ site.baseurl }}/assets/bald1jpg.jpg" height="300" /></p>
 <p>That's right folks, I shaved that sucker.  I haven't done it since Freshman year, and figured, why not, better time than any! Nobody's looking, and I'm not caring, why not go for it.  And look, honestly, it'll grow back in a week or two.  So, now that It's done.  Here are the pro's and con's:</p>

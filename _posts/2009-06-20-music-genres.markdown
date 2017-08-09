@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>okay.  so clearly there is a problem with genre names.  They just don't describe the genre at all. That said, I would like to relabel them for myself.  I provided an example of each:</p>
 <ol>

@@ -14,11 +14,11 @@ tags:
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Today I didn't go to my home church.  I went to my old home church.  I guess it's not really home church anymore, but it still sort of feels like home, okay, well not as much these days.</p>
 <p>I got to stop by a Sunday school class that was reading a book called, Tender Warrior. My first reaction was intense laughter. And then I realized it was the title of a book, not the creative imaginings of old asian church men.  Anyways, I sat in on the class, and listened, while playing Tap Defense, to the teacher talk about the image of children being the arrows in their fathers quiver as derived from Psalm 127.</p>

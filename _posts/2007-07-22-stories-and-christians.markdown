@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Recently I've written a few things concerning my love for children's fiction.  This time around I want to say a brief word about stories in general.  Why is it that stories hold such a power over the mind? such sway over the imagination?  It is no small question. After all, a story is more than a plot line, more than characters or settings.  A story when it is well written can break through the pages of a book and extend beyond the author's own descriptions.</p>
 <p>The greatest stories offer more than a tale to be told.  They grant those who read them a doorway to another world.  A world to be explored and enjoyed even apart from the constraints of the plot line or the path of the protagonist.  When an author creates a world in a story, it is as though he or she is merely the one who tips the snowball off the top of the slope and the reader is the one who runs alongside of it. By the time the reader becomes engrossed in the story, the size of the snowball is already far greater than the author could have ever intended... or controlled for that matter.</p>

@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>the heart is constantly in a state of longing.  It must therefore be either satiated or pacified with something at all times.  If it is not satisfied it must necessarily be pacified.</p>
 <p>Recently my heart has been in a state of overwhelming hunger.  No kidding. As a result, for a long time my heart was being pacified.  With what? unfortunately with a sorry type of heart food: musings.  It was a poor pacifier for me.  But when I came across this sentence in a book, I felt like I could breathe again.  This was a flash of blinding light after standing in the dark for a long time.  Yes, this one small phrase filled me to the top.</p>

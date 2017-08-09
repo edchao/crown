@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>For those of you who don't know her, a good friend of mine named Bethany will be undergoing radiation therapy for her cancer starting tommorow (monday the 17th.) be praying hard for her.  It's not flowers and butterflies to swallow a radioactive pill.</p>
 <p>Pray for energy, overcoming nausea and weakness, not getting any side effects, getting rid of the cancer completely, and increased trust and steadfastness of joy in the Lord.</p>

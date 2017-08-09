@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Seldom do I appreciate the swiftness of God's grace in moments of need. The moment the prayer has ended, the answer has already arrived, I need only to step into it.</p>

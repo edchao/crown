@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>1. The Spiritual disconnect / Part-time Christians</p>
 <p>Whether it&#39;s drinking boba or going to dormal, once you apply your Christianity to it, immediately the response is &quot;Relax buddy, you think too much.&quot; Well, the reason why these people are wrong to respond like this (most of the time, though not all.) is because they have partitioned their life into the spiritual and non spiritual issues, for example, videogames, that&#39;s non-spiritual, prayer and devotions, that&#39;s spiritual, movies, non-spiritual, biblestudy, spiritual, etc. You get the picture. Well, that&#39;s really too bad because they have basically sectioned off their life, or maybe more practically their day, into sections of time wherein they live as a Christian and other sections where they do not. Well I would like to say that Christianity is not a part of your life which you conveniently stow away once something unrelated to the Christian Faith comes to the forefront of your to do list. This generation of young men and women live disconnected lives where Christianity is like an electric outlet that can only be utilized by a few select appliances but for all the others which are from different regions, well, too bad not everything fits into one type of plug, right?</p>

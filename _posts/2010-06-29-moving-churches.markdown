@@ -13,11 +13,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I've been thinking about going to GBF in Mountain View for a little while now.  Hard to say whether that's final or not but I really like it. If not for the unfortunate name which can also mean <a href="http://edchao.wordpress.com/2007/03/30/gbf-bgf/">girl boy-friend</a>, it would be pretty perfect for me.  :)</p>
 <p>Although one thing that I have to say is it feels like GOC all over again.  Is that just a good thing?  I'm thinking about it.</p>

@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Okay.  Deep breath.  Don't freak out.   -_-</p>
 <p>Here we go.  Men are suckers for looks.  We admit it... okay, I admit it on behalf of all of us.   And until today, I couldn't let that factor go.  It just seemed so obvious, so integral.  Nobody wants to get married to someone they aren't attracted to right?</p>

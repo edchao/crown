@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I really want to live a comfortable life when I grow up.  There, I said it.  I know it's not what I should be wanting, at least not to the degree that I am wanting it, but more often than not, that's what I want, period.</p>
 <p>One of the things that continues to hammer on my heart these days is the passage about the seeds and the soils as well as the words of our Lord "what does it profit a man to gain the world but lose his soul?"  The common theme is obvious, the pleasures and cares of the world and their position and priority in our hearts.</p>

@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I am hereby coining the terms GBF and BGF.</p>
 <p>GBF meaning a Girl who acts like a boyfriend and BGF meaning a boy who acts like a girlfriend. These can be applied to a variety of relational circumstances.</p>

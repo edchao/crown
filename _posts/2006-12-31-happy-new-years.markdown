@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Perhaps a verse to start it off.</p>
 <p>““Do not worry then, saying, ‘What will we eat?’ or ‘What will we drink?’ or ‘What will we wear for clothing?’ “For the Gentiles eagerly seek all these things; for your heavenly Father knows that you need all these things. “But seek first His kingdom and His righteousness, and all these things will be added to you.”<br />

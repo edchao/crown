@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>One of the thoughts that has been running through my head over and over again these past few months is the depth of good I have in God apart from all else.  It is of course, as most biblical assurances are, easy to say but difficult to believe.</p>
 <p>If all my greatest career-related dreams came true and I had all the money I ever wanted, at last becoming the great man of success that my dad always wanted me to be, and then was suddenly robbed of all I had and spent the rest of my life on the streets, would I still consider myself wealthy because of my imperishable inheritance in the Lord?</p>

@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Sometimes it feels like being in school makes me a kid;  like there is some sort of inherent property to education that implies immaturity or childishness in the student.  It's not true of course, I have seen thirty year olds walking the campus with back packs on and eighty year olds sitting in on my Religion lectures.</p>
 <p>And yet, there's something there that's amiss.  The usual conclusion is that school is just completely different from the real world.  After all, most of us don't deal with workplace dynamics, or the gamut of insurance plans (health, dental, car, etc), taxes and figuring out deductions and exemptions, paying mortgages, investing in time-shares, stocks, financial bonds, insurance bonds and mutual funds, credit ratings and automobile purchases, how about keeping up with diplomatic relations concerning our country, who is who in the house and in the senate, are we republican or democratic or something else? The list of things we suddenly need to know seems to go on forever...</p>

@@ -13,11 +13,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>If evolution (and by implication evolutionary psychology) is true, and all human behavior is a result of evolutionary process, then all that we do, say, or think is a byproduct of that process as well.</p>
 <p>If this is true, then our beliefs on morality are also a result of the evolutionary process. But when seen this way, Morality is arbitrary and even untrue in view of its evolutionary origins.  So is it really wrong to kill or rape someone? Is it really wrong to kill a baby? Though these questions sound distasteful Evolution teaches that right and wrong does not correspond to truth but rather, developed social constructs.  So what may seem right or wrong, really is just a arbitrary thought implanted in the human mind over years of advantageous random mutations.  So then, evolution has made us think and believe things are true that are not actually true.  We believe in the laws of morality but our convictions are misplaced.</p>

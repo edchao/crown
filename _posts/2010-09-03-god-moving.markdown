@@ -11,11 +11,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I was recently asked whether I've seen God moving in my life recently.  I think it's a great question to ask yourself every once in awhile just as a good reality check for your spiritual life.  Some things I've realized from thinking about the question:</p>
 <ol>

@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Have you ever been afraid to invite your friend to a fellowship of believers because you&#39;re afraid that some of the guys will start hitting on her or trying to start a relationship with her?&nbsp; or perhaps, if it is a guy, you&#39;re afraid some the girls might start whispering to one another about how handsome he is?&nbsp;</p>
 <p>Doesn&#39;t it make you feel sick?&nbsp; It&#39;s like wolves feeding on a helpless ewe lamb. &nbsp;</p>

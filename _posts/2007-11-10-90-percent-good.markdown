@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I'm feeling a lot better these days.  I still wake up in cold sweats but other than that, life has returned to normal.</p>
 <p>I extended my visa the other day that will expire in January.  Weird to be thinking I'll still be here in so long.  I also paid my water bill...at seven-eleven.</p>

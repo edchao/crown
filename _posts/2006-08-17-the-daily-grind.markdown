@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Man was neither made for novelty nor routine.</p>
 <p>Going to work and sitting around in an office is not what I was made to do.  It is downright boring.  I don't even have pencils to sharpen, just a chair to twirl around in.</p>

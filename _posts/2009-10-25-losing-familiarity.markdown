@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>As a homebody, I am irrevocably attached to whatever is familiar.  And whenever I lose a piece of my wonderfully familiar world, it makes me sad.</p>
 <p>My brother got married yesterday.  I know I haven't lost him, but I did lose something familiar. No worries, I'm happy for him, and I know that he is very very happy now which makes me vicariously happy too.  I'm just hoping that this new unfamiliar bit of "my world" becomes a better familiar bit in time.</p>

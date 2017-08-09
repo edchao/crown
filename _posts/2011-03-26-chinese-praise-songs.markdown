@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Something about Chinese praise songs just reaches me deeper than English ones.  I guess that's what's so beautiful about God sanctifying culture.  Especially when it's <em>my</em> culture.</p>
 <p>My Top faves:</p>

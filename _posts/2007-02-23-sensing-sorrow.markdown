@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Most people carry burdens behind a smiling face.  Chances are you do too.  I know nobody talks about it much, but that's not what bothers me.  What I don't understand is how people either fail to see it or fail to care.  I use the word fail, because it really is a failure on our part.  An undershepherd at my Bible study once began a sermon by asking the question, how is it that someone can come to our Bible study, be surrounded by Christians and then leave without anyone noticing? How can someone be surrounded by people and still feel alone, unwanted, pushed to the side? Do you ever think about that?</p>
 <p>It's epidemic.   Everyone knows that as believers, we're called to love one another.  That doesn't happen abstractly.  The apostle john says its even more than just via words or tongue, it's demonstrated by deeds and that's what makes love true.  But stop here, most of us don't even love to the degree that we use or words or tongue.  And we're talking about deeds and truth?  Maybe I'm being pessimistic, maybe I'm jaded, but I have seen a good number of people with distant eyes on a Friday night.  I told my roomate steve that sometimes I can stand at the front of the room and look out over the congregation and just point out the people who are in the very process of falling through the cracks.  Just like that.  But it's more than just being engaged in conversation.  Your mouth can be moving but in your heart something can still be amiss.</p>

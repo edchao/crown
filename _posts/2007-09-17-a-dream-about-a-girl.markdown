@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>This entry might be a little weird and even awkward (go figure) but try to take it with a grain of salt.</p>
 <p>I was riding back on a bus from a GOC outing at some retreat in the mountains (everyone was there, mattlau, beland, harrison, steve was somwhere but I didn't see him, mitchell, jeff, peter...by the way there was an onsen for the guys later that night where I discussed a lot of my thoughts concerning this entry...).  On the bus I developed a friendship with a girl (who was the spitting image of Natalie Portman) that somehow right then and there became more than a friendship.  I don't know how, but we ended up holding hands and she asked me about the possibility of dating.  At that point every normal guy would have dived at the opportunity and said "Yes! let's do it!" But something felt strangely and deeply amiss in me.   I knew that she did not delight herself in the knowledge of God.  Subsequently I could not enjoy any of our conversations and our relationship felt shallow, dark, and tragic. I couldn't look her in the eyes and tell her that I was willing to go the distance with her.</p>

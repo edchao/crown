@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p><img src="{{ site.baseurl }}/assets/22birthday.jpg" alt="brithday" height="300" /></p>
 <p>Thanks for the cake Mom, this picture is for you  :)</p>

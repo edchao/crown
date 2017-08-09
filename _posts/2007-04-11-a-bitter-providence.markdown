@@ -12,11 +12,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>This is a poem I wrote around two years ago, when I was a Junior in College.  It brought back some tough memories and even tougher lessons.  But I still stand by it.  I pray that I understand it better today.</p>
 <blockquote><p><span>"...O King of mercy, God of Grace, Job knew it in the end,<br />

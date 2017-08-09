@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>There are two emotions which happen.  First, a dropping inside, a sudden moment of falling and haze.  A dull and heavy lump of pain emerges in the deepest part of me. And then it slowly comes out, like a long sigh which takes all your breath away.</p>
 <p>But then, something beautiful happens.  It's hard to put into words, but here is a excerpt from a journal entry, it doesn't really make sense, but it's something real and honest:</p>

@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>and by tribute, I mean in relation to that song...</p>
 <p>Getting a grip on theological terminology is not about looking smart.  Granted, many people, myself included often fall prey to making those things like pokemon badges which we wear on our chests and flaunt before our friends.  Don't do that. However, on the flipside, when you can read a passage like Romans 3 and understand the words and catch even a glimpse of the depth of their meanings it will change your life.  Now for example, Propitiation is a common word we use and also a word rarely understood, as is justification, condemnation, and imputation.  Let me give you an example,  read v.23, many people read it and for lack of understanding translate:</p>

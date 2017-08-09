@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I parked at Hollywood Video hoping I could work the system and not have to pay 5 bucks at a parking structure.  Came back to find my car missing. Hollywood Towed it.  Here are the two thoughts that have been in my mind since I got the car back.</p>
 <ol>

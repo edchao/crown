@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>That's what I wish I could write about in my research paper.  Unfortunately I don't think it will fly.  I'm taking a class on the Abrahamic connection between Islam, Judaism, and Christianity and I need to come up with a research paper topic by tommorow.</p>
 <p>But the more I think about it, the more I realize that it is impossible for the three Abrahamic religions to stand in tension without the compromise of their doctrinal integrity.  In class, all that seems to be discussed in the lecture in regard to their differences is historical facts, or obscure geneologies.  And in the light of such minute differences, they build their hopes that all three religions can join hands and unite to make the world a better place.</p>

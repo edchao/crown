@@ -10,10 +10,10 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>God the Father has no body. But God walked with Adam in the garden of Eden. The garden was a physical place. Jesus physically ascended into (intermediate) heaven and is now seated at the right hand of the Father. Intermediate heaven is also a physical place. So God, who is spiritual in essence can and does exist in physical space. Can God then be touched?</p>

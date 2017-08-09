@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>(disclaimer: This is a semi-confusing post and you have to take it real slow to understand what I'm saying.)</p>
 <p>Have you ever been in a situation where you went through some interesting circumstances and then came out of it saying, "Wow I didn't see it at the time, but that really turned out for my good!"  For example, a guy and a girl get together through strange or awkward situations and after they get married the husband says, "Boy! even though it didn't seem like it at the time, that really turned out for my good!" Or, how about this, "I didn't study for the test, but despite my lameness, somehow it worked out because the test got moved today, thanks God, you're working everything together for my good!"  How about this one. "Hey I know you didn't make the cut, but don't worry about it, God is working things out together for your good.  He's got better plans for you  yet."</p>

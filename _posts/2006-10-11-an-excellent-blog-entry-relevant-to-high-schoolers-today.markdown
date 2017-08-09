@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>pulled from <a href="http://teampyro.blogspot.com/2006/10/my-short-eye-opening-stint-as-youth.html" title="Lordship in High school">Pyromaniacs</a></p>
 <blockquote><p><strong>My Short, Eye-Opening Stint as a Youth Pastor</strong></p>

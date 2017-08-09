@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>I've arrived in Taiwan.  Things are going well.  Registered for classes today.  Tommorow I'll see my apartment.  I think I'm getting a Lenovo for all you nerds out there.</p>
 <p>Taiwan design is either digi or imitation-japanese.  Too bad.</p>

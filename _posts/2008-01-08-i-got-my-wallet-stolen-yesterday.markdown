@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>These are the sort of times when I look up to the sky and say, "God. why would you do this to me?"</p>
 <p>and even though I don't hear any audible responses. I get the feeling the answer is: "Because you are an idiot."</p>

@@ -14,11 +14,11 @@ meta:
   _edit_last: '165623'
   _wp_old_slug: ''
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>There are not many friends that I follow in the blogosphere.   There are many reasons for this which I will not discuss at length here. However, there are a few writers that are always saying things that bring new light into my mind and heart.  A good friend and pastor of mine named Matt Hauck writes out of the richness of his God-saturated life.  Here is just one of the posts that has encouraged me in my walk with the Lord Jesus Christ.  It is a post I'd recommend every one of my friends to read.</p>
 <blockquote><p>We just finished a Bible study series on decision making two weeks ago.</p>

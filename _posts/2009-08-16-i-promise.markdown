@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>i will write soon.  I know there are people wondering if my blog is dying. the answer is, no.  it is only sleeping. heavily. but will soon awake in power and glory.</p>
 <p>this is just a midsleep rustle.</p>

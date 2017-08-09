@@ -13,11 +13,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p> I never thought about it that way but now it seems so obvious.  John Piper writes that the purifying power of faith Future Grace is based upon a delight in God, a deep seated Joy in Jesus.  But I have realized that our purification does not need always depend on the future or promises not yet fulfilled.  (btw, I'm sure he also believes this. I just missed it when I was reading)</p>
 <p>You see, since the core of Future Grace theology is increasing Joy in God over joy in sin, we do not need to limit ourselves to joy found in promises.  We can extend our minds to present truths such as Theology proper too.  There's no promise in Theology Proper really, but what there is, is the sheer excellence of God in His own character as revealed by the Scriptures. And it is enough to lift your mind above the pitiful pleasures of the world into the heights of God.  You can fight sin by simply delighting in who God is right now.  See? you can increase your joy in God by just reading "God."</p>

@@ -9,11 +9,11 @@ categories: []
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Last summer I was sitting on the train and then I saw this.  Pretty awesome. <img src="{{ site.baseurl }}/assets/DSC00283.JPG" alt="shameless" height="300" /></p>
 <p>well, have a wonderful christmas everyone.   May the season bring you joy in the Lord and worship.  I will miss you all.</p>

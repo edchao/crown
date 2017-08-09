@@ -11,11 +11,11 @@ tags: []
 meta:
   _edit_last: '165623'
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>It's been about nearly a month since I got married.  A few notes and observations about marriage for those who are considering it.</p>
 <p>1. Gratitude overwhelms you.  To think that God has given you a unique human being as a gift and a stewardship is mind blowing.  Responding in worship is the right way to go.</p>

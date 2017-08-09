@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>It's been about four years now since I learned to study the Scriptures and to go deep with the Word.  A year and a half of learning to teach it and develop it into something understandable.  And near 8 years of being a Christian in possession of a Holy Bible.  That's almost a third of my life living with the Word of the Lord.  And yet, the Scriptures are still, yes even today, hard to open when I'm alone.  I don't intend to answer the question why it's hard because the cause is obvious.  My sin.</p>
 <p>Now, the specific sin that is most threatening to me today is not lust, discontentment, or even pride. The great and silent killer sin is Laziness.  Can you believe it? But did you know, men have died because they lacked discipline?</p>

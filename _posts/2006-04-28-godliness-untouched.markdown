@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>Recently I listened again to a sermon which was first preached when I was a freshman in college.  The scripture verse was 1 Tim 4 if I remember correctly.  The topic was discipline, namely train/discipilne yourselves for godliness.  It was a formative sermon for me even though when I talk to my friend (who preached it) about it, he says it was really not one of his better sermons (just goes to show the power of the spirit of God I guess.)  The sermon was this, very simply:</p>
 <p> godliness is achieved through discipline.  </p>

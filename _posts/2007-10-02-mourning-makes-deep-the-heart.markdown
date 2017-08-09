@@ -11,11 +11,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>In  a Sermon John MacArthur delivered on September 29 of this year at the DGM Stand conference he said the following:</p>
 <blockquote>

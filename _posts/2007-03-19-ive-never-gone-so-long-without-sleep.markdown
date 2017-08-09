@@ -10,11 +10,11 @@ categories:
 tags: []
 meta: {}
 author:
-  login: edchao
-  email: ed@guidebook.com
-  display_name: edchao
-  first_name: Ed
-  last_name: Chao
+  
+  
+  
+  Ed
+  
 ---
 <p>3:00 pm Saturday - 6:30 am Sunday @ Print lab</p>
 <p>7:00-12:00 - Church</p>
