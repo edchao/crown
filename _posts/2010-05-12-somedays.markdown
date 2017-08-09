@@ -1,0 +1,20 @@
+---
+layout: post
+title: somedays.
+date: 2010-05-12 23:37:19.000000000 -07:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta:
+  _edit_last: '165623'
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>somedays you try so hard to do what's right, what's kind, whats good.  you put others first, you put your hand over your mouth,  and say a million sorrys to cover your bases. but at the end of the day, nothing works, the people you care about, still don't get it, everyone gets hurt.  all your good intentions are washed down the storm drain.</p>
+<p>and what your left with is all that blistering emotion.  it makes you want to write a powerfully sad song, but then you can't find the words or the chords because your not talented enough to come up with anything original. so you just sigh, feel tragic, stumble up the stairs, and hope your bed will at least be good to you.  and then you tell yourself, I promise, tomorrow I'll be a better man...but somewhere inside you think. not that it matters.</p>

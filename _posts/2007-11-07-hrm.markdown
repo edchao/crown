@@ -1,0 +1,21 @@
+---
+layout: post
+title: hrm...
+date: 2007-11-07 18:51:11.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>I had the fleeting question dash through my mind today:</p>
+<p>"Is it wrong to miss small group more than you miss dating?"</p>
+<p>hrm...</p>

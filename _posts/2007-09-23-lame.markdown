@@ -1,0 +1,19 @@
+---
+layout: post
+title: lame.
+date: 2007-09-23 09:49:14.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>The first thing EBCTers do to me is log into my facebook account and change my relationship status.  The love of the body of Christ is sometimes so very lame.</p>

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Updating
+date: 2006-04-20 15:23:00.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>Yes I know I haven't posted in awhile.  That is because this quarter I have to get up at 7:30 everyday so I can't be up and about at the most ridiculous hours, hence, no talking crazy.  Furthermore, I haven't had anything really to say that would be helpful, useful, or poignant.  Well, be patient, one of these nights, the craziness will come.</p>

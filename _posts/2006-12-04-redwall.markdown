@@ -1,0 +1,21 @@
+---
+layout: post
+title: Redwall
+date: 2006-12-04 09:25:17.000000000 -08:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>If you haven't read the Redwall series yet, you are seriously deprived.  This is one of the best children's fiction series ever. (Rivalring harry potter, and a distant second or third to Narnia)  Every night I read a little bit, and it's like eating a nibble of dark chocolate at the end of the day.  Mice with swords, battle-scarred badgers with armor, big bad rats with long poison barbed tails, honor, glory, sacrificial brotherhood, and integrity.  What more could you ask for in a good yarn?  I mean check out this awesome picture:</p>
+<p><img src="{{ site.baseurl }}/assets/martin.jpg " alt="Redwall" height="325" width="247" /></p>
+<p>I have noticed that many people like to read novels in one sitting, what a terrible waste!  It is far better to savor them.  In fact it makes the experience so much better, in reading bit by bit you allow the flavor to last longer. Would you wolf down a super rich slice of tiramisu? hopefully not! though I can see the temptation.  Reading in small portions also teaches you self control. You know, good things come to those who wait.</p>
+<p>I think the people who just barrel through novels are the same people who usually eat dessert first...</p>

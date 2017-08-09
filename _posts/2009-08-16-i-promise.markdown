@@ -1,0 +1,22 @@
+---
+layout: post
+title: i promise
+date: 2009-08-16 23:06:21.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta:
+  _edit_last: '165623'
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>i will write soon.  I know there are people wondering if my blog is dying. the answer is, no.  it is only sleeping. heavily. but will soon awake in power and glory.</p>
+<p>this is just a midsleep rustle.</p>
+<p>hope you are all well and enjoying the grace that we call life.</p>

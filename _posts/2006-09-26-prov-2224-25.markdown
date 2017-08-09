@@ -1,0 +1,21 @@
+---
+layout: post
+title: Prov 22:24-25
+date: 2006-09-26 09:29:23.000000000 -07:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>“    Do not associate with a man given to anger;<br />
+Or go with a hot-tempered man,<br />
+Or you will learn his ways<br />
+And find a snare for yourself.”</p>

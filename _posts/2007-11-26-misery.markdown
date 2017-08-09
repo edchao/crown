@@ -1,0 +1,21 @@
+---
+layout: post
+title: misery's shadow and joy's reflection.
+date: 2007-11-26 09:30:29.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p><span class="huge">Part of every misery is, so to speak, the misery's shadow or reflection: the fact that you don't merely suffer but have to keep on thinking about the fact that you suffer. I not only live each endless day in grief, but live each day thinking about living each day in grief.</span></p>
+<p><span class="bodybold">-C. S. Lewis</span></p>
+<p>But Joy also has a reflection: the fact that you don't merely feel joyful but also necessarily think of how joyful you are feeling when you do.  I not only live each passing day in joy, but live each day thinking about living each day in joy.</p>

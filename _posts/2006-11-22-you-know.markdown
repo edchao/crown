@@ -1,0 +1,18 @@
+---
+layout: post
+title: you know,
+date: 2006-11-22 09:06:12.000000000 -08:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>Just because you can't win, doesn't mean you've got to be defeated.  Not all victories shine brightly.</p>

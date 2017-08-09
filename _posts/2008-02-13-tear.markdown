@@ -1,0 +1,19 @@
+---
+layout: post
+title: tear.
+date: 2008-02-13 05:11:29.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>Everything feels more meaningful when you're sad.</p>

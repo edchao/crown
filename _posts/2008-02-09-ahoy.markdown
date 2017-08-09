@@ -1,0 +1,19 @@
+---
+layout: post
+title: ahoy
+date: 2008-02-09 09:38:10.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>I'm back from my wonderful trip to Cali.   The food may not be as good, but boy the people are really something else.</p>

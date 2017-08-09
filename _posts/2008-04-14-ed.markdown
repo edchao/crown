@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'ש"ע : Ed'
+date: 2008-04-14 07:33:49.000000000 -07:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta:
+  _edit_last: '165623'
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>means "witness" in hebrew.</p>
+<p>sigh...if I could only live up to the name.</p>

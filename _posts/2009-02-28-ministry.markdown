@@ -1,0 +1,22 @@
+---
+layout: post
+title: ministry
+date: 2009-02-28 14:04:34.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta:
+  _edit_last: '165623'
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>let's do it.</p>
+<p>I'm in the middle of getting involved in youth ministry, media team, music team, and community group at my church.</p>
+<p>I think it's been almost a full year since I've been really involved in ministry.  Crizzap, I'm out of touch.</p>

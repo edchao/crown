@@ -1,0 +1,22 @@
+---
+layout: post
+title: Baseball
+date: 2010-10-28 11:27:30.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta:
+  _edit_last: '165623'
+  _wp_old_slug: ''
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>The history of the world is like Giants baseball.  The game is torture, the umps are screwing up the calls, pitchers and hitters are ice cold, and everyone is feeling awful as we're down in the bottom of the last inning, but one homer can turn what seemed like a certain loss into a triumphant win.   Jesus is going to hit that homer and everyone is going to crap their pants.</p>
+<p>Go Giants!</p>

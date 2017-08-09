@@ -1,0 +1,20 @@
+---
+layout: post
+title: home
+date: 2006-03-25 09:14:27.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>There is power in having a home. I realized in some random prayer that upon this earth it is the most constant thing we have. We are able to travel to the farthest corners of the earth and rest in the fact that when things get tough we can always run home. No matter where we are or where we plan to go, our home will always be waiting for us, it will always be there for us when we need it. Having a home makes you brave. Knowing that Mom and Dad and Jon are there for you if by chance nothing works out and your life falls apart is a great comfort and a great motivation for you to take risks.</p>
+<p>Thinking about grad school has turned my heart towards my home. And more specifically towards my home in God. Wherever my feet take me, I know I can always run home. And God is unchanging. Unlike our earthly homes which move, change and even dissapear, our heavenly home and our heavenly Father will forever remain the same. And we will always be able to find Him.  He is only but a knees-breadth away.</p>

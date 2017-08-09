@@ -1,0 +1,20 @@
+---
+layout: post
+title: East Asia
+date: 2006-06-19 21:19:39.000000000 -07:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>July 19-June 1&nbsp; : in China with parents<br />
+July 2 - July 18 : in Taiwan ministering to prisoners&nbsp;</p>
+<p>please pray for me.&nbsp;</p>

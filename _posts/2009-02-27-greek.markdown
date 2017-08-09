@@ -1,0 +1,19 @@
+---
+layout: post
+title: Greek
+date: 2009-02-27 16:31:30.000000000 -08:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta:
+  _edit_last: '165623'
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>I'm reviewing my greek again.  Got a thousand or so cards.  Hello rote memorization.</p>

@@ -1,0 +1,22 @@
+---
+layout: post
+title: Jesus
+date: 2007-12-25 17:42:55.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+- gospel
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>Merry Christmas.</p>
+<p>Truly, Jesus has come to take away the sins of the world.</p>
+<p>Repent, and believe and you will be saved into a life, and an eternity, of ultimate Joy.</p>

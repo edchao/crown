@@ -1,0 +1,24 @@
+---
+layout: post
+title: Isaiah 43:24-25
+date: 2007-09-25 17:37:10.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>    “But you have burdened me with your sins;<br />
+you have wearied me with your iniquities.</p>
+<p>“I, I am he<br />
+who blots out your transgressions for my own sake,<br />
+and I will not remember your sins.”<br />
+(Is 43:24-25 ESV)</p>

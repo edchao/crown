@@ -1,0 +1,22 @@
+---
+layout: post
+title: 5:40 am
+date: 2007-03-15 12:39:43.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>that's the time.  My roomate steve is going to wake up soon.  As he does I will only just be falling asleep.</p>
+<p>I'm graduating in a week.</p>
+<p>I can't believe that I will so quickly and so simply be moving on to the next stage in life.</p>
+<p>It's about time I know.  Sorry for those of you who have stopped waiting.  And sorry for those of you who feel like I'm leaving them behind.  Sometimes, no matter how you flip it you just can't win.</p>

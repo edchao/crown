@@ -1,0 +1,19 @@
+---
+layout: post
+title: mosquito
+date: 2007-11-02 17:11:24.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>there is a renegade mosquito in my room.  It kept biting me in my sleep.  So I'm awake not at 7:30 in the morning on a Saturday.  Mosquito!!! you stole my sleep from me! I will kill you!</p>

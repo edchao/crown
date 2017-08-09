@@ -1,0 +1,21 @@
+---
+layout: post
+title: This Year
+date: 2007-12-31 22:49:46.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+- Heaven
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>may the Lord return and take the Church home.</p>
+<blockquote><p>"Just a few more days and I'll be going home,  Just a few more hours and I'll be flying.  It could be any minute now, that you'll take me away.  Maybe just a few more days...a few more days.  To you a day is like a thousand years and only you know when the clouds will clear, so let me not forget and fall away, because a thousand years could be today." - Matthew West.</p></blockquote>

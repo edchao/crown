@@ -1,0 +1,23 @@
+---
+layout: post
+title: Taiwan!
+date: 2007-08-22 07:31:11.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>I've arrived in Taiwan.  Things are going well.  Registered for classes today.  Tommorow I'll see my apartment.  I think I'm getting a Lenovo for all you nerds out there.</p>
+<p>Taiwan design is either digi or imitation-japanese.  Too bad.</p>
+<p>I think I'm going to be in a class with a lot of white people.  The woman who tested me told me my reading and writing level was 50 percent of my speaking level.  That's pretty sad.  That means I can't take intensive courses until I shape up.  School starts Sept. 1</p>
+<p>Oh, and I think I'll be going to <a href="http://www.ebct.org.tw/">Eastbay Baptist Taiwan</a> for Church.</p>
+<p>My brother Jon is also successfully matriculated into Jefferson Med school.</p>

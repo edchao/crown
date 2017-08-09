@@ -1,0 +1,18 @@
+---
+layout: post
+title: ":)"
+date: 2011-02-03 10:42:58.000000000 -08:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>Intermediate Heaven is a physical place. With animals apparently. What a thought.</p>

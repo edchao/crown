@@ -1,0 +1,21 @@
+---
+layout: post
+title: coding
+date: 2007-11-15 18:41:08.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>I started coding again.  I'm pulling together another portfolio/agency website called Legitimate Hero.  I figured the name was cool enough to start something for. PHP is a paaaiiiiinnnnn.</p>
+<p>.<a href="http://edchao.files.wordpress.com/2007/11/placeholder2.gif" title="3crests"><img src="{{ site.baseurl }}/assets/placeholder2.gif" alt="3crests" /></a><br />
+legitimate hero. damsel unimpressed.</p>

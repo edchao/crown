@@ -1,0 +1,38 @@
+---
+layout: post
+title: This Day
+date: 2007-07-06 08:20:00.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<br />
+<blockquote><p><font face="Arial, Helvetica, sans-serif" size="2">This day all His mercies are new<br />
+This day every promise is true<br />
+Father, help me to believe<br />
+Give me faith I need to know You<br />
+And trust You this day<br />
+This day </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">Who knows what tomorrow’s light will                      bring<br />
+Tears to cry or maybe songs to sing out loud<br />
+But only God can see that far away<br />
+And He made us for living day by day<br />
+‘Cause He wants us to see<br />
+That the God that He’s been every day of history<br />
+Is who He is this day </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">‘Cause You are the same yesterday and                      today and forever<br />
+Through every season Your truth and Your grace never change<br />
+Oh, Lord, I do believe that the God that<br />
+You’ve been every day of history<br />
+Is who You are this day</font></p>
+<p>- SCC</p></blockquote>

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Sleep
+date: 2007-01-31 16:02:45.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>I didn't sleep well last night.  As I was tossing and turning I couldn't decide weather I was imagining or dreaming.  When I got up, I wondered if it really mattered weather it was one or the other.  Aren't they about the same anyways?</p>

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "..and"
+date: 2008-06-07 20:36:42.000000000 -07:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta:
+  _edit_last: '165623'
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>back.</p>

@@ -1,0 +1,26 @@
+---
+layout: post
+title: Gal 1 translation 9.30.07
+date: 2007-10-04 03:46:32.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>I figured I'd let you in on the fun:</p>
+<blockquote><p>"Paul an apostle not from men nor through (the agency of) a man but through Jesus Christ and God the Father, the one who awakened him out of the dead and together with me all the brothers, to the churches of Galatia.</p>
+<p>Grace to you and peace from God our father and the Lord Jesus Christ, the one who has given himself for the sake of our sins, as he chose us for himself out of the age of this present evil according to the will of God, even our Father, to whom be the glory into the ages of the ages, amen.</p>
+<p>I am surprised that so quickly you have turned away from the one who called you in grace (Christ) into another gospel, which is not another, if not some who are disturbing you and are willing to pervert the gospel of Christ.  But (then) if we or an angel out of heaven preaches to you beside what we have preached to you, let him be an anathema.  How we have said before and now again we say, if someone preaches to you a gospel beside what you have receved let him be an anathema.  For now (do) we persuade men or God? Or (am) I striving to please men? If I were striving to please men, than (I am) not a slave of Christ.</p>
+<p>For I would make known to you brothers, the gospel, that which was preached by me because its I not according to man.  For neither have I received it from men nor was taught but through the revelation of Jesus Christ.</p>
+<p>For you heard of my conduct how in Judaism, because just as I was excessively persecuting the church of God and pillaging it, and was progressing in Judaism beyond many contemporaries in the my nation being far more zealous for my paternal traditions.  That God was well pleased who appointed me out of womb of my mother and called (me) through his grace to reveal his son in me, in order that I would preach him in the nations, I did not consult with flesh and blood nor go up to Jerusalem before the apostles first before me, but went up to Arabia and again went to Damascus.</p>
+<p>Next, after three days I went up to Jerusalem to visit Cephas and remained with him fifteen days, other of the apostles I did not see except James the brother of the Lord.  Which I write to you, I assure you before God that I am not lying.  Next I came to the district of Syria and Cilicia.  I was still not known in sight by the churches in Judea in Christ.  Only hearing I had that “He who persecuted us how now he preaches the faith which formerly he destroyed and they glorified God because of me."</p></blockquote>
+<p>Yeah there are still some kinks to work out.  But that's the gist.</p>

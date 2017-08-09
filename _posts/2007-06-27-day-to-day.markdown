@@ -1,0 +1,21 @@
+---
+layout: post
+title: day to day
+date: 2007-06-27 09:02:52.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>it's morning time.  I just had romans study yesterday.  Couldn't stop thinking about it falling asleep and even when I woke up and in the shower it was the only thing on my mind.  Now I have work.  What a weird pair.</p>
+<p>I think I'm going to write something here later about the meaning and use of Habakkuk 2:4 for all the confused Romans Returnees.</p>
+<p>okay, going to work now.</p>

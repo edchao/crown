@@ -1,0 +1,18 @@
+---
+layout: post
+title: A Tribute.
+date: 2007-03-05 11:29:42.000000000 -08:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p><a href="http://photos1.blogger.com/x/blogger/5420/1205/1600/150404/caleb.jpg"><img src="{{ site.baseurl }}/assets/caleb.jpg" alt="caleb" align="left" width="400" /></a></p>

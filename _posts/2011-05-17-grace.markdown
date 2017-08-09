@@ -1,0 +1,19 @@
+---
+layout: post
+title: Grace
+date: 2011-05-17 00:02:34.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>Seldom do I appreciate the swiftness of God's grace in moments of need. The moment the prayer has ended, the answer has already arrived, I need only to step into it.</p>

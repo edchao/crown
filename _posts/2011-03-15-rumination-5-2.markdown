@@ -1,0 +1,21 @@
+---
+layout: post
+title: 'Rumination #6'
+date: 2011-03-15 00:09:16.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- Ruminations
+tags: []
+meta:
+  _edit_last: '165623'
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>Why I believe God knows the future. he brings it to pass.</p>
+<p>"You spoke with your mouth, and with your hand have fulfilled it this day" 1 kings 8:24</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+title: turns out
+date: 2008-02-21 06:20:39.000000000 -08:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta: {}
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>my teacher is a follower of dear Confucius.  I got to talk to him about morals, relative morality, self-principles, and wisdom today on the way home from the hot spring (that's right friends, I went to the hot springs with my teacher! eat that Beland) There's still some way to go before we can start getting into absolute truth vs. moral relativism.  I need to go read up on Zen too...boo.</p>
+<p>Oh, and he agreed to keep hitting the onsens up next school quarter with me.  Seems like the start of a legitimate friendship.</p>
+<p>Lesson: Look out for number two</p>

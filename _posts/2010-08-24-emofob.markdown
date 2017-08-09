@@ -1,0 +1,21 @@
+---
+layout: post
+title: EmoFob
+date: 2010-08-24 21:12:58.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- fresh
+tags: []
+meta:
+  _edit_last: '165623'
+  _wp_old_slug: ''
+author:
+  login: edchao
+  email: ed@guidebook.com
+  display_name: edchao
+  first_name: Ed
+  last_name: Chao
+---
+<p>I always thought everyone was emo inside.  But after a few years of interacting with all sorts of people, I realized that the mass majority of emotionally-able people are fobs.  I will state no reason for this.  However I would like to make the observation that Chinese love songs are a lot more emotionally probing than American ones.  (maybe not true, and only because I'm Chinese...)</p>
