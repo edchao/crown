@@ -6,4 +6,4 @@ categories: crown
 author: Ed
 ---
 
-"Holiness is happiness in the bud, and happiness is holiness at the full. Happiness is nothing but the quintessence of holiness." — Thomas Brooks
+> "Holiness is happiness in the bud, and happiness is holiness at the full. Happiness is nothing but the quintessence of holiness." — Thomas Brooks
