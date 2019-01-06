@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A moving reflection"
+title:  "A shifting reflection"
 date:   2018-01-05 07:26:00
 categories: crown
 author: Ed
